@@ -11,6 +11,17 @@ The `flux_kontext_standalone.py` script is a complete, self-contained server tha
 - **Manages caching** for faster subsequent startups
 - **Supports both text-to-image and image-to-image generation**
 
+## Important Setup Requirement
+
+**CRITICAL**: Before running `flux_kontext_standalone.py`, you MUST replace the utils.py file in the para_attn package:
+
+```bash
+# Replace the para_attn utils.py with the one from this repo
+cp utils.py flux-env/lib/python*/site-packages/para_attn/first_block_cache/utils.py
+```
+
+This step is essential for FLUX.1-Kontext compatibility. The provided `utils.py` includes necessary modifications for the model to work correctly.
+
 ## Quick Start
 
 ```bash
@@ -20,10 +31,14 @@ The `flux_kontext_standalone.py` script is a complete, self-contained server tha
 # 2. Activate environment
 source flux-env/bin/activate
 
-# 3. Set HuggingFace token (required for model download)
+# 3. Replace para_attn utils.py (REQUIRED)
+cp utils.py flux-env/lib/python*/site-packages/para_attn/first_block_cache/utils.py
+# Reason here: https://chatgpt.com/share/687e5e7b-7df4-8010-a1e6-b7aafb55dd2f
+
+# 4. Set HuggingFace token (required for model download)
 export HF_TOKEN="your_huggingface_token_here"
 
-# 4. Run the standalone server
+# 5. Run the standalone server
 python flux_kontext_standalone.py
 ```
 
