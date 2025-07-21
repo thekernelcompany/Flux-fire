@@ -1,0 +1,130 @@
+{
+  "metrics": [
+    {
+      "image_path": "outputs/0c28cbca-a764-4490-baf6-52fd55dbd9f2.png",
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "optimization_level": "baseline",
+      "clip_score": 0.5078423619270325,
+      "ssim_score": null,
+      "lpips_score": null,
+      "file_size_kb": 1220.9892578125
+    },
+    {
+      "image_path": "outputs/75c5fb47-fb01-4ea1-8a18-029bf31db9f4.png",
+      "prompt": "A futuristic cyberpunk cityscape with neon lights and flying cars",
+      "optimization_level": "baseline",
+      "clip_score": 0.5216214656829834,
+      "ssim_score": null,
+      "lpips_score": null,
+      "file_size_kb": 773.828125
+    },
+    {
+      "image_path": "outputs/4d490f07-036e-4ae6-a05d-4b6e6f6455c0.png",
+      "prompt": "A detailed portrait of a wise elderly wizard with flowing beard",
+      "optimization_level": "baseline",
+      "clip_score": 0.5233973264694214,
+      "ssim_score": null,
+      "lpips_score": null,
+      "file_size_kb": 689.6943359375
+    },
+    {
+      "image_path": "outputs/f1e19c8b-e536-4960-8043-7f3aa51972f9.png",
+      "prompt": "An abstract composition of geometric shapes in bold colors",
+      "optimization_level": "baseline",
+      "clip_score": 0.5243374705314636,
+      "ssim_score": null,
+      "lpips_score": null,
+      "file_size_kb": 1129.029296875
+    },
+    {
+      "image_path": "outputs/739ba703-2207-4d4e-858a-e3bf0d73d232.png",
+      "prompt": "A photorealistic still life of fresh fruits on a wooden table",
+      "optimization_level": "baseline",
+      "clip_score": 0.5160994529724121,
+      "ssim_score": null,
+      "lpips_score": null,
+      "file_size_kb": 1161.0556640625
+    },
+    {
+      "image_path": "outputs/e0f196eb-5da2-4325-9b9a-2ef04b4d5c27.png",
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "optimization_level": "full_optimization",
+      "clip_score": 0.5138333439826965,
+      "ssim_score": null,
+      "lpips_score": null,
+      "file_size_kb": 1107.87109375
+    },
+    {
+      "image_path": "outputs/8e71c8c0-1d9c-4c74-a1eb-3b6d84b18472.png",
+      "prompt": "A futuristic cyberpunk cityscape with neon lights and flying cars",
+      "optimization_level": "full_optimization",
+      "clip_score": 0.5229762196540833,
+      "ssim_score": null,
+      "lpips_score": null,
+      "file_size_kb": 1107.87109375
+    },
+    {
+      "image_path": "outputs/71cb16c9-cd20-437c-94b8-928a9604b7b0.png",
+      "prompt": "A detailed portrait of a wise elderly wizard with flowing beard",
+      "optimization_level": "full_optimization",
+      "clip_score": 0.5243592262268066,
+      "ssim_score": null,
+      "lpips_score": null,
+      "file_size_kb": 851.59765625
+    },
+    {
+      "image_path": "outputs/9099c8b9-0d91-485e-926f-370b1cf874f4.png",
+      "prompt": "An abstract composition of geometric shapes in bold colors",
+      "optimization_level": "full_optimization",
+      "clip_score": 0.5352162718772888,
+      "ssim_score": null,
+      "lpips_score": null,
+      "file_size_kb": 761.2392578125
+    },
+    {
+      "image_path": "outputs/f2e71440-940f-4fcd-b683-64205c3ec2fc.png",
+      "prompt": "A photorealistic still life of fresh fruits on a wooden table",
+      "optimization_level": "full_optimization",
+      "clip_score": 0.513234555721283,
+      "ssim_score": null,
+      "lpips_score": null,
+      "file_size_kb": 1611.48828125
+    }
+  ],
+  "analysis": {
+    "clip_scores": {
+      "by_optimization": {
+        "mean": {
+          "baseline": 0.5186596155166626,
+          "full_optimization": 0.5219239234924317
+        },
+        "std": {
+          "baseline": 0.006837834206166368,
+          "full_optimization": 0.009009538574060274
+        },
+        "min": {
+          "baseline": 0.5078423619270325,
+          "full_optimization": 0.513234555721283
+        },
+        "max": {
+          "baseline": 0.5243374705314636,
+          "full_optimization": 0.5352162718772888
+        }
+      },
+      "overall_mean": 0.5202917695045471,
+      "overall_std": 0.007734125779769583
+    },
+    "file_sizes": {
+      "by_optimization": {
+        "mean": {
+          "baseline": 994.9193359375,
+          "full_optimization": 1088.0134765625
+        },
+        "std": {
+          "baseline": 244.30411115088413,
+          "full_optimization": 330.71451102009877
+        }
+      }
+    }
+  }
+}

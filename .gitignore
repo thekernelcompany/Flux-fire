@@ -1,0 +1,85 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+flux_env/
+flux-env/
+venv/
+ENV/
+env/
+.env
+
+# Model and cache files
+.cache/
+*.ckpt
+*.safetensors
+*.bin
+model_cache/
+.hf_hub_cache/
+.inductor_cache/
+.triton_cache/
+.nv_cache/
+.mega_cache/
+
+# Output files
+outputs/
+output/
+*.png
+*.jpg
+*.jpeg
+*.webp
+
+# Benchmark results (keep only the organized folder)
+benchmark_results/
+benchmark_plots/
+quality_plots/
+cost_analysis/
+demo_results/
+test_results/
+benchmark_logs/
+validation_report_*.json
+production_verification_*.json
+quality_assessment_results.*
+cost_analysis_report.md
+h100_*.png
+
+# Keep the organized benchmark folder
+!flux-benchmarks/
+!flux-benchmarks/**/*.png
+!flux-benchmarks/**/*.html
+!flux-benchmarks/**/*.json
+!flux-benchmarks/**/*.csv
+!flux-benchmarks/**/*.md
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Requirements lock (regenerate as needed)
+requirements.lock
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Keep important files
+!requirements.txt
+!requirements_benchmark.txt
+!README.md
+!CLAUDE.md
+!setup_flux.sh
+!setup_benchmarking.sh

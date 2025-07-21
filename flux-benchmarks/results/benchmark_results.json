@@ -1,0 +1,6049 @@
+{
+  "raw_results": [
+    {
+      "test_name": "resolution_512x512",
+      "resolution": [
+        512,
+        512
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "baseline",
+      "inference_time": 7.0314424649996,
+      "total_time": 7.64260964299956,
+      "memory_used": 36.16015625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 41,
+      "power_draw": 175.136,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 16:39:25.525168"
+    },
+    {
+      "test_name": "resolution_512x512",
+      "resolution": [
+        512,
+        512
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "baseline",
+      "inference_time": 7.05345186500017,
+      "total_time": 7.766998400000375,
+      "memory_used": 36.16015625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 44,
+      "power_draw": 150.066,
+      "prompt": "A futuristic cyberpunk cityscape with neon lights and flying cars",
+      "seed": 43,
+      "timestamp": "2025-07-21 16:39:33.485704"
+    },
+    {
+      "test_name": "resolution_512x512",
+      "resolution": [
+        512,
+        512
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "baseline",
+      "inference_time": 7.0657352859998355,
+      "total_time": 7.624122591999367,
+      "memory_used": 36.16015625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 47,
+      "power_draw": 194.177,
+      "prompt": "A detailed portrait of a wise elderly wizard with flowing beard",
+      "seed": 44,
+      "timestamp": "2025-07-21 16:39:41.342326"
+    },
+    {
+      "test_name": "resolution_512x512",
+      "resolution": [
+        512,
+        512
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "baseline",
+      "inference_time": 7.0869300759995895,
+      "total_time": 8.156117171000005,
+      "memory_used": 36.16015625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 49,
+      "power_draw": 87.739,
+      "prompt": "An abstract composition of geometric shapes in bold colors",
+      "seed": 45,
+      "timestamp": "2025-07-21 16:39:49.674566"
+    },
+    {
+      "test_name": "resolution_512x512",
+      "resolution": [
+        512,
+        512
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "baseline",
+      "inference_time": 7.107160086000476,
+      "total_time": 7.86511063800026,
+      "memory_used": 36.16015625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 52,
+      "power_draw": 141.016,
+      "prompt": "A photorealistic still life of fresh fruits on a wooden table",
+      "seed": 46,
+      "timestamp": "2025-07-21 16:39:57.776656"
+    },
+    {
+      "test_name": "resolution_768x768",
+      "resolution": [
+        768,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "baseline",
+      "inference_time": 7.121703419999903,
+      "total_time": 7.73427245000039,
+      "memory_used": 36.16015625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 55,
+      "power_draw": 184.009,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 16:40:13.468979"
+    },
+    {
+      "test_name": "resolution_768x768",
+      "resolution": [
+        768,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "baseline",
+      "inference_time": 7.138624518000142,
+      "total_time": 7.848837372000162,
+      "memory_used": 36.16015625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 56,
+      "power_draw": 156.985,
+      "prompt": "A futuristic cyberpunk cityscape with neon lights and flying cars",
+      "seed": 43,
+      "timestamp": "2025-07-21 16:40:21.492244"
+    },
+    {
+      "test_name": "resolution_768x768",
+      "resolution": [
+        768,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "baseline",
+      "inference_time": 7.160150370999872,
+      "total_time": 7.71963974099981,
+      "memory_used": 36.16015625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 57,
+      "power_draw": 194.49,
+      "prompt": "A detailed portrait of a wise elderly wizard with flowing beard",
+      "seed": 44,
+      "timestamp": "2025-07-21 16:40:29.385670"
+    },
+    {
+      "test_name": "resolution_768x768",
+      "resolution": [
+        768,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "baseline",
+      "inference_time": 7.153334120000181,
+      "total_time": 8.21957235300033,
+      "memory_used": 36.16015625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 58,
+      "power_draw": 94.363,
+      "prompt": "An abstract composition of geometric shapes in bold colors",
+      "seed": 45,
+      "timestamp": "2025-07-21 16:40:37.818978"
+    },
+    {
+      "test_name": "resolution_768x768",
+      "resolution": [
+        768,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "baseline",
+      "inference_time": 7.135459893999723,
+      "total_time": 7.892521191999549,
+      "memory_used": 36.16015625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 59,
+      "power_draw": 148.42,
+      "prompt": "A photorealistic still life of fresh fruits on a wooden table",
+      "seed": 46,
+      "timestamp": "2025-07-21 16:40:45.908190"
+    },
+    {
+      "test_name": "resolution_1024x1024",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "baseline",
+      "inference_time": 7.138613515999168,
+      "total_time": 7.754614034999577,
+      "memory_used": 36.16015625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 60,
+      "power_draw": 185.738,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 16:41:01.570822"
+    },
+    {
+      "test_name": "resolution_1024x1024",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "baseline",
+      "inference_time": 7.148995965000722,
+      "total_time": 7.877051723000477,
+      "memory_used": 36.16015625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 60,
+      "power_draw": 152.083,
+      "prompt": "A futuristic cyberpunk cityscape with neon lights and flying cars",
+      "seed": 43,
+      "timestamp": "2025-07-21 16:41:09.644409"
+    },
+    {
+      "test_name": "resolution_1024x1024",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "baseline",
+      "inference_time": 7.15012302499963,
+      "total_time": 7.706285578000461,
+      "memory_used": 36.16015625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 61,
+      "power_draw": 199.902,
+      "prompt": "A detailed portrait of a wise elderly wizard with flowing beard",
+      "seed": 44,
+      "timestamp": "2025-07-21 16:41:17.559648"
+    },
+    {
+      "test_name": "resolution_1024x1024",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "baseline",
+      "inference_time": 7.147088546999839,
+      "total_time": 8.212595268000769,
+      "memory_used": 36.16015625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 60,
+      "power_draw": 97.055,
+      "prompt": "An abstract composition of geometric shapes in bold colors",
+      "seed": 45,
+      "timestamp": "2025-07-21 16:41:25.953201"
+    },
+    {
+      "test_name": "resolution_1024x1024",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "baseline",
+      "inference_time": 7.150483794000138,
+      "total_time": 7.904892696000388,
+      "memory_used": 36.16015625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 61,
+      "power_draw": 151.742,
+      "prompt": "A photorealistic still life of fresh fruits on a wooden table",
+      "seed": 46,
+      "timestamp": "2025-07-21 16:41:34.030963"
+    },
+    {
+      "test_name": "resolution_1280x720",
+      "resolution": [
+        1280,
+        720
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "baseline",
+      "inference_time": 7.093919042999914,
+      "total_time": 7.72204586800035,
+      "memory_used": 36.146484375,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 61,
+      "power_draw": 177.339,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 16:41:49.640308"
+    },
+    {
+      "test_name": "resolution_1280x720",
+      "resolution": [
+        1280,
+        720
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "baseline",
+      "inference_time": 7.1025397040002645,
+      "total_time": 7.841519997999967,
+      "memory_used": 36.146484375,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 61,
+      "power_draw": 152.831,
+      "prompt": "A futuristic cyberpunk cityscape with neon lights and flying cars",
+      "seed": 43,
+      "timestamp": "2025-07-21 16:41:57.708151"
+    },
+    {
+      "test_name": "resolution_1280x720",
+      "resolution": [
+        1280,
+        720
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "baseline",
+      "inference_time": 7.1002983719999975,
+      "total_time": 7.472849960000531,
+      "memory_used": 36.146484375,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 62,
+      "power_draw": 239.686,
+      "prompt": "A detailed portrait of a wise elderly wizard with flowing beard",
+      "seed": 44,
+      "timestamp": "2025-07-21 16:42:05.355365"
+    },
+    {
+      "test_name": "resolution_1280x720",
+      "resolution": [
+        1280,
+        720
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "baseline",
+      "inference_time": 7.1058003489997645,
+      "total_time": 7.813371361999998,
+      "memory_used": 36.146484375,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 62,
+      "power_draw": 158.874,
+      "prompt": "An abstract composition of geometric shapes in bold colors",
+      "seed": 45,
+      "timestamp": "2025-07-21 16:42:13.347461"
+    },
+    {
+      "test_name": "resolution_1280x720",
+      "resolution": [
+        1280,
+        720
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "baseline",
+      "inference_time": 7.112074212999687,
+      "total_time": 7.898157689000072,
+      "memory_used": 36.146484375,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 61,
+      "power_draw": 137.722,
+      "prompt": "A photorealistic still life of fresh fruits on a wooden table",
+      "seed": 46,
+      "timestamp": "2025-07-21 16:42:21.418880"
+    },
+    {
+      "test_name": "resolution_1024x768",
+      "resolution": [
+        1024,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "baseline",
+      "inference_time": 6.947717729000033,
+      "total_time": 7.583962745000463,
+      "memory_used": 36.087890625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 62,
+      "power_draw": 183.637,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 16:42:36.753548"
+    },
+    {
+      "test_name": "resolution_1024x768",
+      "resolution": [
+        1024,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "baseline",
+      "inference_time": 6.963629925000532,
+      "total_time": 7.689132493000216,
+      "memory_used": 36.087890625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 62,
+      "power_draw": 162.04,
+      "prompt": "A futuristic cyberpunk cityscape with neon lights and flying cars",
+      "seed": 43,
+      "timestamp": "2025-07-21 16:42:44.651782"
+    },
+    {
+      "test_name": "resolution_1024x768",
+      "resolution": [
+        1024,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "baseline",
+      "inference_time": 6.954966127999796,
+      "total_time": 7.414569494999341,
+      "memory_used": 36.087890625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 62,
+      "power_draw": 222.521,
+      "prompt": "A detailed portrait of a wise elderly wizard with flowing beard",
+      "seed": 44,
+      "timestamp": "2025-07-21 16:42:52.263259"
+    },
+    {
+      "test_name": "resolution_1024x768",
+      "resolution": [
+        1024,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "baseline",
+      "inference_time": 6.956279813000037,
+      "total_time": 7.736439514000267,
+      "memory_used": 36.087890625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 61,
+      "power_draw": 147.001,
+      "prompt": "An abstract composition of geometric shapes in bold colors",
+      "seed": 45,
+      "timestamp": "2025-07-21 16:43:00.173881"
+    },
+    {
+      "test_name": "resolution_1024x768",
+      "resolution": [
+        1024,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "baseline",
+      "inference_time": 6.954983171000094,
+      "total_time": 7.7368059330001415,
+      "memory_used": 36.087890625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 61,
+      "power_draw": 145.196,
+      "prompt": "A photorealistic still life of fresh fruits on a wooden table",
+      "seed": 46,
+      "timestamp": "2025-07-21 16:43:08.085616"
+    },
+    {
+      "test_name": "resolution_512x512",
+      "resolution": [
+        512,
+        512
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "compile_only",
+      "inference_time": 4.729160687000331,
+      "total_time": 5.324004197000249,
+      "memory_used": 36.01171875,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 44,
+      "power_draw": 191.344,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 17:08:21.334017"
+    },
+    {
+      "test_name": "resolution_512x512",
+      "resolution": [
+        512,
+        512
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "compile_only",
+      "inference_time": 4.740368532999128,
+      "total_time": 5.4842091020000225,
+      "memory_used": 36.01171875,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 45,
+      "power_draw": 149.266,
+      "prompt": "A futuristic cyberpunk cityscape with neon lights and flying cars",
+      "seed": 43,
+      "timestamp": "2025-07-21 17:08:31.330902"
+    },
+    {
+      "test_name": "resolution_512x512",
+      "resolution": [
+        512,
+        512
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "compile_only",
+      "inference_time": 4.743540559000394,
+      "total_time": 5.321592643000258,
+      "memory_used": 36.01171875,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 47,
+      "power_draw": 188.128,
+      "prompt": "A detailed portrait of a wise elderly wizard with flowing beard",
+      "seed": 44,
+      "timestamp": "2025-07-21 17:08:40.877306"
+    },
+    {
+      "test_name": "resolution_512x512",
+      "resolution": [
+        512,
+        512
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "compile_only",
+      "inference_time": 4.744088366998767,
+      "total_time": 5.754362738000054,
+      "memory_used": 36.01171875,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 47,
+      "power_draw": 87.777,
+      "prompt": "An abstract composition of geometric shapes in bold colors",
+      "seed": 45,
+      "timestamp": "2025-07-21 17:08:50.953025"
+    },
+    {
+      "test_name": "resolution_512x512",
+      "resolution": [
+        512,
+        512
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "compile_only",
+      "inference_time": 4.753724012998646,
+      "total_time": 5.51039757000035,
+      "memory_used": 36.01171875,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 48,
+      "power_draw": 144.407,
+      "prompt": "A photorealistic still life of fresh fruits on a wooden table",
+      "seed": 46,
+      "timestamp": "2025-07-21 17:09:00.957515"
+    },
+    {
+      "test_name": "resolution_768x768",
+      "resolution": [
+        768,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "compile_only",
+      "inference_time": 4.758780737000052,
+      "total_time": 5.355949360000523,
+      "memory_used": 36.01171875,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 51,
+      "power_draw": 192.867,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 17:09:15.895087"
+    },
+    {
+      "test_name": "resolution_768x768",
+      "resolution": [
+        768,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "compile_only",
+      "inference_time": 4.757704311001362,
+      "total_time": 5.501832750000176,
+      "memory_used": 36.01171875,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 51,
+      "power_draw": 157.154,
+      "prompt": "A futuristic cyberpunk cityscape with neon lights and flying cars",
+      "seed": 43,
+      "timestamp": "2025-07-21 17:09:25.608704"
+    },
+    {
+      "test_name": "resolution_768x768",
+      "resolution": [
+        768,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "compile_only",
+      "inference_time": 4.766338471999916,
+      "total_time": 5.342735603999245,
+      "memory_used": 36.01171875,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 51,
+      "power_draw": 198.374,
+      "prompt": "A detailed portrait of a wise elderly wizard with flowing beard",
+      "seed": 44,
+      "timestamp": "2025-07-21 17:09:35.348178"
+    },
+    {
+      "test_name": "resolution_768x768",
+      "resolution": [
+        768,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "compile_only",
+      "inference_time": 4.760518832001253,
+      "total_time": 5.7700423799997225,
+      "memory_used": 36.01171875,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 51,
+      "power_draw": 89.365,
+      "prompt": "An abstract composition of geometric shapes in bold colors",
+      "seed": 45,
+      "timestamp": "2025-07-21 17:09:45.472072"
+    },
+    {
+      "test_name": "resolution_768x768",
+      "resolution": [
+        768,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "compile_only",
+      "inference_time": 4.766807443998914,
+      "total_time": 5.521292161998645,
+      "memory_used": 36.01171875,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 52,
+      "power_draw": 149.573,
+      "prompt": "A photorealistic still life of fresh fruits on a wooden table",
+      "seed": 46,
+      "timestamp": "2025-07-21 17:09:55.218997"
+    },
+    {
+      "test_name": "resolution_1024x1024",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "compile_only",
+      "inference_time": 4.765654535998692,
+      "total_time": 5.362612844999603,
+      "memory_used": 36.01171875,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 53,
+      "power_draw": 194.822,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 17:10:10.171177"
+    },
+    {
+      "test_name": "resolution_1024x1024",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "compile_only",
+      "inference_time": 4.771409408000181,
+      "total_time": 5.519348892999915,
+      "memory_used": 36.01171875,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 53,
+      "power_draw": 158.112,
+      "prompt": "A futuristic cyberpunk cityscape with neon lights and flying cars",
+      "seed": 43,
+      "timestamp": "2025-07-21 17:10:19.867540"
+    },
+    {
+      "test_name": "resolution_1024x1024",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "compile_only",
+      "inference_time": 4.7700909539998975,
+      "total_time": 5.34628823300045,
+      "memory_used": 36.01171875,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 53,
+      "power_draw": 197.211,
+      "prompt": "A detailed portrait of a wise elderly wizard with flowing beard",
+      "seed": 44,
+      "timestamp": "2025-07-21 17:10:29.413967"
+    },
+    {
+      "test_name": "resolution_1024x1024",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "compile_only",
+      "inference_time": 4.769321656000102,
+      "total_time": 5.77876810700036,
+      "memory_used": 36.01171875,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 53,
+      "power_draw": 90.492,
+      "prompt": "An abstract composition of geometric shapes in bold colors",
+      "seed": 45,
+      "timestamp": "2025-07-21 17:10:39.518419"
+    },
+    {
+      "test_name": "resolution_1024x1024",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "compile_only",
+      "inference_time": 4.7700671139991755,
+      "total_time": 5.523810631999368,
+      "memory_used": 36.01171875,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 53,
+      "power_draw": 155.463,
+      "prompt": "A photorealistic still life of fresh fruits on a wooden table",
+      "seed": 46,
+      "timestamp": "2025-07-21 17:10:49.414175"
+    },
+    {
+      "test_name": "resolution_1280x720",
+      "resolution": [
+        1280,
+        720
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "compile_only",
+      "inference_time": 4.685096044000602,
+      "total_time": 5.286382874999617,
+      "memory_used": 35.998046875,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 42,
+      "power_draw": 186.232,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 17:20:01.838630"
+    },
+    {
+      "test_name": "resolution_1280x720",
+      "resolution": [
+        1280,
+        720
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "compile_only",
+      "inference_time": 4.679660150999553,
+      "total_time": 5.44063910299883,
+      "memory_used": 35.998046875,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 44,
+      "power_draw": 142.504,
+      "prompt": "A futuristic cyberpunk cityscape with neon lights and flying cars",
+      "seed": 43,
+      "timestamp": "2025-07-21 17:20:13.451285"
+    },
+    {
+      "test_name": "resolution_1280x720",
+      "resolution": [
+        1280,
+        720
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "compile_only",
+      "inference_time": 4.686392613000862,
+      "total_time": 5.053792924998561,
+      "memory_used": 35.998046875,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 45,
+      "power_draw": 247.228,
+      "prompt": "A detailed portrait of a wise elderly wizard with flowing beard",
+      "seed": 44,
+      "timestamp": "2025-07-21 17:20:24.256880"
+    },
+    {
+      "test_name": "resolution_1280x720",
+      "resolution": [
+        1280,
+        720
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "compile_only",
+      "inference_time": 4.696868167999128,
+      "total_time": 5.711046790998807,
+      "memory_used": 35.998046875,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 46,
+      "power_draw": 85.713,
+      "prompt": "An abstract composition of geometric shapes in bold colors",
+      "seed": 45,
+      "timestamp": "2025-07-21 17:20:35.694630"
+    },
+    {
+      "test_name": "resolution_1280x720",
+      "resolution": [
+        1280,
+        720
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "compile_only",
+      "inference_time": 4.702145323999503,
+      "total_time": 5.471129378998739,
+      "memory_used": 35.998046875,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 47,
+      "power_draw": 147.493,
+      "prompt": "A photorealistic still life of fresh fruits on a wooden table",
+      "seed": 46,
+      "timestamp": "2025-07-21 17:20:47.220993"
+    },
+    {
+      "test_name": "resolution_1024x768",
+      "resolution": [
+        1024,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "compile_only",
+      "inference_time": 4.586115497000719,
+      "total_time": 5.214677100000699,
+      "memory_used": 35.935546875,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 49,
+      "power_draw": 180.204,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 17:21:03.457376"
+    },
+    {
+      "test_name": "resolution_1024x768",
+      "resolution": [
+        1024,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "compile_only",
+      "inference_time": 4.604526041999634,
+      "total_time": 5.356038507999983,
+      "memory_used": 35.935546875,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 49,
+      "power_draw": 148.991,
+      "prompt": "A futuristic cyberpunk cityscape with neon lights and flying cars",
+      "seed": 43,
+      "timestamp": "2025-07-21 17:21:14.540408"
+    },
+    {
+      "test_name": "resolution_1024x768",
+      "resolution": [
+        1024,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "compile_only",
+      "inference_time": 4.608015892001276,
+      "total_time": 5.093915075000041,
+      "memory_used": 35.935546875,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 50,
+      "power_draw": 219.851,
+      "prompt": "A detailed portrait of a wise elderly wizard with flowing beard",
+      "seed": 44,
+      "timestamp": "2025-07-21 17:21:25.420505"
+    },
+    {
+      "test_name": "resolution_1024x768",
+      "resolution": [
+        1024,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "compile_only",
+      "inference_time": 4.609767564999856,
+      "total_time": 5.44405659199947,
+      "memory_used": 35.935546875,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 50,
+      "power_draw": 129.308,
+      "prompt": "An abstract composition of geometric shapes in bold colors",
+      "seed": 45,
+      "timestamp": "2025-07-21 17:21:36.907747"
+    },
+    {
+      "test_name": "resolution_1024x768",
+      "resolution": [
+        1024,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "compile_only",
+      "inference_time": 4.608536442001423,
+      "total_time": 5.388935146998847,
+      "memory_used": 35.935546875,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 50,
+      "power_draw": 144.938,
+      "prompt": "A photorealistic still life of fresh fruits on a wooden table",
+      "seed": 46,
+      "timestamp": "2025-07-21 17:21:48.009622"
+    },
+    {
+      "test_name": "resolution_512x512",
+      "resolution": [
+        512,
+        512
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "para_attn_only",
+      "inference_time": 4.079789198000071,
+      "total_time": 4.698724763999053,
+      "memory_used": 36.16015625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 49,
+      "power_draw": 180.896,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 17:22:16.503753"
+    },
+    {
+      "test_name": "resolution_512x512",
+      "resolution": [
+        512,
+        512
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "para_attn_only",
+      "inference_time": 4.067493451000701,
+      "total_time": 4.8217706690011255,
+      "memory_used": 36.16015625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 49,
+      "power_draw": 142.442,
+      "prompt": "A futuristic cyberpunk cityscape with neon lights and flying cars",
+      "seed": 43,
+      "timestamp": "2025-07-21 17:22:27.758011"
+    },
+    {
+      "test_name": "resolution_512x512",
+      "resolution": [
+        512,
+        512
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "para_attn_only",
+      "inference_time": 4.069760689999384,
+      "total_time": 4.628563846999896,
+      "memory_used": 36.16015625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 49,
+      "power_draw": 191.304,
+      "prompt": "A detailed portrait of a wise elderly wizard with flowing beard",
+      "seed": 44,
+      "timestamp": "2025-07-21 17:22:38.873043"
+    },
+    {
+      "test_name": "resolution_512x512",
+      "resolution": [
+        512,
+        512
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "para_attn_only",
+      "inference_time": 4.0636875399995915,
+      "total_time": 5.128679277999254,
+      "memory_used": 36.16015625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 49,
+      "power_draw": 87.074,
+      "prompt": "An abstract composition of geometric shapes in bold colors",
+      "seed": 45,
+      "timestamp": "2025-07-21 17:22:50.265904"
+    },
+    {
+      "test_name": "resolution_512x512",
+      "resolution": [
+        512,
+        512
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "para_attn_only",
+      "inference_time": 4.064149305999308,
+      "total_time": 4.8120060750006814,
+      "memory_used": 36.16015625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 49,
+      "power_draw": 143.802,
+      "prompt": "A photorealistic still life of fresh fruits on a wooden table",
+      "seed": 46,
+      "timestamp": "2025-07-21 17:23:01.405643"
+    },
+    {
+      "test_name": "resolution_768x768",
+      "resolution": [
+        768,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "para_attn_only",
+      "inference_time": 4.066117440001108,
+      "total_time": 4.678235016001054,
+      "memory_used": 36.16015625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 50,
+      "power_draw": 180.233,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 17:23:17.160148"
+    },
+    {
+      "test_name": "resolution_768x768",
+      "resolution": [
+        768,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "para_attn_only",
+      "inference_time": 4.064389570999992,
+      "total_time": 4.814745034000225,
+      "memory_used": 36.16015625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 50,
+      "power_draw": 144.1,
+      "prompt": "A futuristic cyberpunk cityscape with neon lights and flying cars",
+      "seed": 43,
+      "timestamp": "2025-07-21 17:23:27.866459"
+    },
+    {
+      "test_name": "resolution_768x768",
+      "resolution": [
+        768,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "para_attn_only",
+      "inference_time": 4.063412135999897,
+      "total_time": 4.616800530000546,
+      "memory_used": 36.16015625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 50,
+      "power_draw": 192.486,
+      "prompt": "A detailed portrait of a wise elderly wizard with flowing beard",
+      "seed": 44,
+      "timestamp": "2025-07-21 17:23:38.842758"
+    },
+    {
+      "test_name": "resolution_768x768",
+      "resolution": [
+        768,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "para_attn_only",
+      "inference_time": 4.066633784001169,
+      "total_time": 5.117029174998606,
+      "memory_used": 36.16015625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 49,
+      "power_draw": 87.899,
+      "prompt": "An abstract composition of geometric shapes in bold colors",
+      "seed": 45,
+      "timestamp": "2025-07-21 17:23:49.865081"
+    },
+    {
+      "test_name": "resolution_768x768",
+      "resolution": [
+        768,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "para_attn_only",
+      "inference_time": 4.060168359999807,
+      "total_time": 4.803756688999783,
+      "memory_used": 36.16015625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 49,
+      "power_draw": 144.362,
+      "prompt": "A photorealistic still life of fresh fruits on a wooden table",
+      "seed": 46,
+      "timestamp": "2025-07-21 17:24:00.930151"
+    },
+    {
+      "test_name": "resolution_1024x1024",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "para_attn_only",
+      "inference_time": 4.067557387999841,
+      "total_time": 4.682012717999896,
+      "memory_used": 36.16015625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 51,
+      "power_draw": 179.762,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 17:24:16.256981"
+    },
+    {
+      "test_name": "resolution_1024x1024",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "para_attn_only",
+      "inference_time": 4.066541883999889,
+      "total_time": 4.813227468999685,
+      "memory_used": 36.16015625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 50,
+      "power_draw": 138.42,
+      "prompt": "A futuristic cyberpunk cityscape with neon lights and flying cars",
+      "seed": 43,
+      "timestamp": "2025-07-21 17:24:27.012746"
+    },
+    {
+      "test_name": "resolution_1024x1024",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "para_attn_only",
+      "inference_time": 4.066281097999308,
+      "total_time": 4.6196493890001875,
+      "memory_used": 36.16015625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 50,
+      "power_draw": 192.829,
+      "prompt": "A detailed portrait of a wise elderly wizard with flowing beard",
+      "seed": 44,
+      "timestamp": "2025-07-21 17:24:37.841713"
+    },
+    {
+      "test_name": "resolution_1024x1024",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "para_attn_only",
+      "inference_time": 4.061858564000431,
+      "total_time": 5.110212968998894,
+      "memory_used": 36.16015625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 50,
+      "power_draw": 88.002,
+      "prompt": "An abstract composition of geometric shapes in bold colors",
+      "seed": 45,
+      "timestamp": "2025-07-21 17:24:48.807178"
+    },
+    {
+      "test_name": "resolution_1024x1024",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "para_attn_only",
+      "inference_time": 4.0639498269993055,
+      "total_time": 4.8119228269988525,
+      "memory_used": 36.16015625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 50,
+      "power_draw": 145.015,
+      "prompt": "A photorealistic still life of fresh fruits on a wooden table",
+      "seed": 46,
+      "timestamp": "2025-07-21 17:24:59.523671"
+    },
+    {
+      "test_name": "resolution_1280x720",
+      "resolution": [
+        1280,
+        720
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "para_attn_only",
+      "inference_time": 4.0294635240006755,
+      "total_time": 4.65027245499914,
+      "memory_used": 36.146484375,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 51,
+      "power_draw": 177.897,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 17:25:15.096645"
+    },
+    {
+      "test_name": "resolution_1280x720",
+      "resolution": [
+        1280,
+        720
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "para_attn_only",
+      "inference_time": 4.039440069000193,
+      "total_time": 4.811962899999344,
+      "memory_used": 36.146484375,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 50,
+      "power_draw": 139.081,
+      "prompt": "A futuristic cyberpunk cityscape with neon lights and flying cars",
+      "seed": 43,
+      "timestamp": "2025-07-21 17:25:25.746653"
+    },
+    {
+      "test_name": "resolution_1280x720",
+      "resolution": [
+        1280,
+        720
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "para_attn_only",
+      "inference_time": 4.034913458999654,
+      "total_time": 4.4143392969999695,
+      "memory_used": 36.146484375,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 51,
+      "power_draw": 237.628,
+      "prompt": "A detailed portrait of a wise elderly wizard with flowing beard",
+      "seed": 44,
+      "timestamp": "2025-07-21 17:25:36.043500"
+    },
+    {
+      "test_name": "resolution_1280x720",
+      "resolution": [
+        1280,
+        720
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "para_attn_only",
+      "inference_time": 4.034459140000763,
+      "total_time": 4.789599038998858,
+      "memory_used": 36.146484375,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 50,
+      "power_draw": 144.129,
+      "prompt": "An abstract composition of geometric shapes in bold colors",
+      "seed": 45,
+      "timestamp": "2025-07-21 17:25:47.143660"
+    },
+    {
+      "test_name": "resolution_1280x720",
+      "resolution": [
+        1280,
+        720
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "para_attn_only",
+      "inference_time": 4.03181914400011,
+      "total_time": 4.819137084999966,
+      "memory_used": 36.146484375,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 50,
+      "power_draw": 135.921,
+      "prompt": "A photorealistic still life of fresh fruits on a wooden table",
+      "seed": 46,
+      "timestamp": "2025-07-21 17:25:57.866334"
+    },
+    {
+      "test_name": "resolution_1024x768",
+      "resolution": [
+        1024,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "para_attn_only",
+      "inference_time": 3.9515907439999864,
+      "total_time": 4.593766975000108,
+      "memory_used": 36.087890625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 51,
+      "power_draw": 171.372,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 17:26:12.948982"
+    },
+    {
+      "test_name": "resolution_1024x768",
+      "resolution": [
+        1024,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "para_attn_only",
+      "inference_time": 3.6267760250011634,
+      "total_time": 4.356584232000387,
+      "memory_used": 36.087890625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 50,
+      "power_draw": 150.973,
+      "prompt": "A futuristic cyberpunk cityscape with neon lights and flying cars",
+      "seed": 43,
+      "timestamp": "2025-07-21 17:26:23.184984"
+    },
+    {
+      "test_name": "resolution_1024x768",
+      "resolution": [
+        1024,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "para_attn_only",
+      "inference_time": 3.6266161690000445,
+      "total_time": 4.097234095999738,
+      "memory_used": 36.087890625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 50,
+      "power_draw": 213.839,
+      "prompt": "A detailed portrait of a wise elderly wizard with flowing beard",
+      "seed": 44,
+      "timestamp": "2025-07-21 17:26:33.499262"
+    },
+    {
+      "test_name": "resolution_1024x768",
+      "resolution": [
+        1024,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "para_attn_only",
+      "inference_time": 3.6262980529991182,
+      "total_time": 4.393702789000599,
+      "memory_used": 36.087890625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 50,
+      "power_draw": 142.838,
+      "prompt": "An abstract composition of geometric shapes in bold colors",
+      "seed": 45,
+      "timestamp": "2025-07-21 17:26:43.787624"
+    },
+    {
+      "test_name": "resolution_1024x768",
+      "resolution": [
+        1024,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "para_attn_only",
+      "inference_time": 3.624776353000925,
+      "total_time": 4.404017175000263,
+      "memory_used": 36.087890625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 49,
+      "power_draw": 139.464,
+      "prompt": "A photorealistic still life of fresh fruits on a wooden table",
+      "seed": 46,
+      "timestamp": "2025-07-21 17:26:54.030108"
+    },
+    {
+      "test_name": "resolution_512x512",
+      "resolution": [
+        512,
+        512
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "channels_last_only",
+      "inference_time": 7.184610537000481,
+      "total_time": 7.792110562999369,
+      "memory_used": 34.896484375,
+      "memory_allocated": 31.467933177947998,
+      "gpu_utilization": 0,
+      "temperature": 51,
+      "power_draw": 175.049,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 17:27:28.220256"
+    },
+    {
+      "test_name": "resolution_512x512",
+      "resolution": [
+        512,
+        512
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "channels_last_only",
+      "inference_time": 7.187260227001389,
+      "total_time": 7.89761154199914,
+      "memory_used": 34.896484375,
+      "memory_allocated": 31.467933177947998,
+      "gpu_utilization": 0,
+      "temperature": 51,
+      "power_draw": 149.98,
+      "prompt": "A futuristic cyberpunk cityscape with neon lights and flying cars",
+      "seed": 43,
+      "timestamp": "2025-07-21 17:27:42.623223"
+    },
+    {
+      "test_name": "resolution_512x512",
+      "resolution": [
+        512,
+        512
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "channels_last_only",
+      "inference_time": 7.195439508001073,
+      "total_time": 7.74909621200095,
+      "memory_used": 34.896484375,
+      "memory_allocated": 31.467933177947998,
+      "gpu_utilization": 0,
+      "temperature": 52,
+      "power_draw": 190.172,
+      "prompt": "A detailed portrait of a wise elderly wizard with flowing beard",
+      "seed": 44,
+      "timestamp": "2025-07-21 17:27:56.777544"
+    },
+    {
+      "test_name": "resolution_512x512",
+      "resolution": [
+        512,
+        512
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "channels_last_only",
+      "inference_time": 7.190690876999724,
+      "total_time": 8.261025840000002,
+      "memory_used": 34.896484375,
+      "memory_allocated": 31.467933177947998,
+      "gpu_utilization": 0,
+      "temperature": 52,
+      "power_draw": 90.169,
+      "prompt": "An abstract composition of geometric shapes in bold colors",
+      "seed": 45,
+      "timestamp": "2025-07-21 17:28:11.370255"
+    },
+    {
+      "test_name": "resolution_512x512",
+      "resolution": [
+        512,
+        512
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "channels_last_only",
+      "inference_time": 7.198909617000027,
+      "total_time": 7.9502787239998725,
+      "memory_used": 34.896484375,
+      "memory_allocated": 31.467933177947998,
+      "gpu_utilization": 0,
+      "temperature": 53,
+      "power_draw": 140.085,
+      "prompt": "A photorealistic still life of fresh fruits on a wooden table",
+      "seed": 46,
+      "timestamp": "2025-07-21 17:28:25.704721"
+    },
+    {
+      "test_name": "resolution_768x768",
+      "resolution": [
+        768,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "channels_last_only",
+      "inference_time": 7.203571797999757,
+      "total_time": 7.807482836000418,
+      "memory_used": 34.896484375,
+      "memory_allocated": 31.467933177947998,
+      "gpu_utilization": 0,
+      "temperature": 54,
+      "power_draw": 182.247,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 17:28:47.711284"
+    },
+    {
+      "test_name": "resolution_768x768",
+      "resolution": [
+        768,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "channels_last_only",
+      "inference_time": 7.208725743001196,
+      "total_time": 7.910800980000204,
+      "memory_used": 34.896484375,
+      "memory_allocated": 31.467933177947998,
+      "gpu_utilization": 0,
+      "temperature": 54,
+      "power_draw": 151.065,
+      "prompt": "A futuristic cyberpunk cityscape with neon lights and flying cars",
+      "seed": 43,
+      "timestamp": "2025-07-21 17:29:01.523918"
+    },
+    {
+      "test_name": "resolution_768x768",
+      "resolution": [
+        768,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "channels_last_only",
+      "inference_time": 7.209548005001125,
+      "total_time": 7.761838943000839,
+      "memory_used": 34.896484375,
+      "memory_allocated": 31.467933177947998,
+      "gpu_utilization": 0,
+      "temperature": 54,
+      "power_draw": 187.159,
+      "prompt": "A detailed portrait of a wise elderly wizard with flowing beard",
+      "seed": 44,
+      "timestamp": "2025-07-21 17:29:15.534403"
+    },
+    {
+      "test_name": "resolution_768x768",
+      "resolution": [
+        768,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "channels_last_only",
+      "inference_time": 7.204131925000183,
+      "total_time": 8.260912228999587,
+      "memory_used": 34.896484375,
+      "memory_allocated": 31.467933177947998,
+      "gpu_utilization": 0,
+      "temperature": 54,
+      "power_draw": 91.553,
+      "prompt": "An abstract composition of geometric shapes in bold colors",
+      "seed": 45,
+      "timestamp": "2025-07-21 17:29:30.215066"
+    },
+    {
+      "test_name": "resolution_768x768",
+      "resolution": [
+        768,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "channels_last_only",
+      "inference_time": 7.210098065999773,
+      "total_time": 7.95636188699973,
+      "memory_used": 34.896484375,
+      "memory_allocated": 31.467933177947998,
+      "gpu_utilization": 0,
+      "temperature": 54,
+      "power_draw": 137.294,
+      "prompt": "A photorealistic still life of fresh fruits on a wooden table",
+      "seed": 46,
+      "timestamp": "2025-07-21 17:29:44.948302"
+    },
+    {
+      "test_name": "resolution_1024x1024",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "channels_last_only",
+      "inference_time": 7.209841032999975,
+      "total_time": 7.810807644998931,
+      "memory_used": 34.896484375,
+      "memory_allocated": 31.467933177947998,
+      "gpu_utilization": 0,
+      "temperature": 55,
+      "power_draw": 174.233,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 17:30:07.115019"
+    },
+    {
+      "test_name": "resolution_1024x1024",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "channels_last_only",
+      "inference_time": 7.213610218999747,
+      "total_time": 7.912870844998906,
+      "memory_used": 34.896484375,
+      "memory_allocated": 31.467933177947998,
+      "gpu_utilization": 0,
+      "temperature": 55,
+      "power_draw": 151.547,
+      "prompt": "A futuristic cyberpunk cityscape with neon lights and flying cars",
+      "seed": 43,
+      "timestamp": "2025-07-21 17:30:21.696674"
+    },
+    {
+      "test_name": "resolution_1024x1024",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "channels_last_only",
+      "inference_time": 7.210706406998725,
+      "total_time": 7.759699504998935,
+      "memory_used": 34.896484375,
+      "memory_allocated": 31.467933177947998,
+      "gpu_utilization": 0,
+      "temperature": 55,
+      "power_draw": 189.927,
+      "prompt": "A detailed portrait of a wise elderly wizard with flowing beard",
+      "seed": 44,
+      "timestamp": "2025-07-21 17:30:35.814250"
+    },
+    {
+      "test_name": "resolution_1024x1024",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "channels_last_only",
+      "inference_time": 7.21213811799862,
+      "total_time": 8.266715425999791,
+      "memory_used": 34.896484375,
+      "memory_allocated": 31.467933177947998,
+      "gpu_utilization": 0,
+      "temperature": 54,
+      "power_draw": 91.673,
+      "prompt": "An abstract composition of geometric shapes in bold colors",
+      "seed": 45,
+      "timestamp": "2025-07-21 17:30:50.790275"
+    },
+    {
+      "test_name": "resolution_1024x1024",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "channels_last_only",
+      "inference_time": 7.207259446000535,
+      "total_time": 7.952881082999738,
+      "memory_used": 34.896484375,
+      "memory_allocated": 31.467933177947998,
+      "gpu_utilization": 0,
+      "temperature": 54,
+      "power_draw": 145.037,
+      "prompt": "A photorealistic still life of fresh fruits on a wooden table",
+      "seed": 46,
+      "timestamp": "2025-07-21 17:31:05.229543"
+    },
+    {
+      "test_name": "resolution_1280x720",
+      "resolution": [
+        1280,
+        720
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "channels_last_only",
+      "inference_time": 7.135269346001223,
+      "total_time": 7.746070278000843,
+      "memory_used": 34.890625,
+      "memory_allocated": 31.467933177947998,
+      "gpu_utilization": 0,
+      "temperature": 55,
+      "power_draw": 175.223,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 17:31:27.125816"
+    },
+    {
+      "test_name": "resolution_1280x720",
+      "resolution": [
+        1280,
+        720
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "channels_last_only",
+      "inference_time": 7.146498544001588,
+      "total_time": 7.871629952998774,
+      "memory_used": 34.890625,
+      "memory_allocated": 31.467933177947998,
+      "gpu_utilization": 0,
+      "temperature": 55,
+      "power_draw": 148.818,
+      "prompt": "A futuristic cyberpunk cityscape with neon lights and flying cars",
+      "seed": 43,
+      "timestamp": "2025-07-21 17:31:41.710163"
+    },
+    {
+      "test_name": "resolution_1280x720",
+      "resolution": [
+        1280,
+        720
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "channels_last_only",
+      "inference_time": 7.153687034999166,
+      "total_time": 7.511838135000289,
+      "memory_used": 34.890625,
+      "memory_allocated": 31.467933177947998,
+      "gpu_utilization": 0,
+      "temperature": 55,
+      "power_draw": 241.355,
+      "prompt": "A detailed portrait of a wise elderly wizard with flowing beard",
+      "seed": 44,
+      "timestamp": "2025-07-21 17:31:55.328276"
+    },
+    {
+      "test_name": "resolution_1280x720",
+      "resolution": [
+        1280,
+        720
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "channels_last_only",
+      "inference_time": 7.154480150000381,
+      "total_time": 7.850489906999428,
+      "memory_used": 34.890625,
+      "memory_allocated": 31.467933177947998,
+      "gpu_utilization": 0,
+      "temperature": 55,
+      "power_draw": 154.809,
+      "prompt": "An abstract composition of geometric shapes in bold colors",
+      "seed": 45,
+      "timestamp": "2025-07-21 17:32:09.257246"
+    },
+    {
+      "test_name": "resolution_1280x720",
+      "resolution": [
+        1280,
+        720
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "channels_last_only",
+      "inference_time": 7.152856367998538,
+      "total_time": 7.927637939001215,
+      "memory_used": 34.890625,
+      "memory_allocated": 31.467933177947998,
+      "gpu_utilization": 0,
+      "temperature": 54,
+      "power_draw": 135.326,
+      "prompt": "A photorealistic still life of fresh fruits on a wooden table",
+      "seed": 46,
+      "timestamp": "2025-07-21 17:32:23.283896"
+    },
+    {
+      "test_name": "resolution_1024x768",
+      "resolution": [
+        1024,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "channels_last_only",
+      "inference_time": 6.977449071000592,
+      "total_time": 7.598004470999513,
+      "memory_used": 34.8515625,
+      "memory_allocated": 31.467933177947998,
+      "gpu_utilization": 0,
+      "temperature": 55,
+      "power_draw": 176.931,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 17:32:44.929703"
+    },
+    {
+      "test_name": "resolution_1024x768",
+      "resolution": [
+        1024,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "channels_last_only",
+      "inference_time": 6.9922389809999,
+      "total_time": 7.7067696590002015,
+      "memory_used": 34.8515625,
+      "memory_allocated": 31.467933177947998,
+      "gpu_utilization": 0,
+      "temperature": 55,
+      "power_draw": 150.58,
+      "prompt": "A futuristic cyberpunk cityscape with neon lights and flying cars",
+      "seed": 43,
+      "timestamp": "2025-07-21 17:32:58.682420"
+    },
+    {
+      "test_name": "resolution_1024x768",
+      "resolution": [
+        1024,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "channels_last_only",
+      "inference_time": 6.998723477001477,
+      "total_time": 7.450386436999906,
+      "memory_used": 34.8515625,
+      "memory_allocated": 31.467933177947998,
+      "gpu_utilization": 0,
+      "temperature": 55,
+      "power_draw": 221.042,
+      "prompt": "A detailed portrait of a wise elderly wizard with flowing beard",
+      "seed": 44,
+      "timestamp": "2025-07-21 17:33:12.192095"
+    },
+    {
+      "test_name": "resolution_1024x768",
+      "resolution": [
+        1024,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "channels_last_only",
+      "inference_time": 6.999810331000845,
+      "total_time": 7.77244581100058,
+      "memory_used": 34.8515625,
+      "memory_allocated": 31.467933177947998,
+      "gpu_utilization": 0,
+      "temperature": 55,
+      "power_draw": 136.615,
+      "prompt": "An abstract composition of geometric shapes in bold colors",
+      "seed": 45,
+      "timestamp": "2025-07-21 17:33:26.002785"
+    },
+    {
+      "test_name": "resolution_1024x768",
+      "resolution": [
+        1024,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "channels_last_only",
+      "inference_time": 6.999536690000241,
+      "total_time": 7.77079853900068,
+      "memory_used": 34.8515625,
+      "memory_allocated": 31.467933177947998,
+      "gpu_utilization": 0,
+      "temperature": 54,
+      "power_draw": 140.37,
+      "prompt": "A photorealistic still life of fresh fruits on a wooden table",
+      "seed": 46,
+      "timestamp": "2025-07-21 17:33:40.190959"
+    },
+    {
+      "test_name": "resolution_512x512",
+      "resolution": [
+        512,
+        512
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "qkv_fusion_only",
+      "inference_time": 7.118325133998951,
+      "total_time": 7.734121886000139,
+      "memory_used": 40.14453125,
+      "memory_allocated": 35.48084020614624,
+      "gpu_utilization": 0,
+      "temperature": 53,
+      "power_draw": 177.424,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 17:34:14.589530"
+    },
+    {
+      "test_name": "resolution_512x512",
+      "resolution": [
+        512,
+        512
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "qkv_fusion_only",
+      "inference_time": 7.118767160000061,
+      "total_time": 7.837015380000594,
+      "memory_used": 40.14453125,
+      "memory_allocated": 35.48084020614624,
+      "gpu_utilization": 0,
+      "temperature": 53,
+      "power_draw": 151.267,
+      "prompt": "A futuristic cyberpunk cityscape with neon lights and flying cars",
+      "seed": 43,
+      "timestamp": "2025-07-21 17:34:29.463952"
+    },
+    {
+      "test_name": "resolution_512x512",
+      "resolution": [
+        512,
+        512
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "qkv_fusion_only",
+      "inference_time": 7.114814867998575,
+      "total_time": 7.678413891000673,
+      "memory_used": 40.14453125,
+      "memory_allocated": 35.48084020614624,
+      "gpu_utilization": 0,
+      "temperature": 53,
+      "power_draw": 192.776,
+      "prompt": "A detailed portrait of a wise elderly wizard with flowing beard",
+      "seed": 44,
+      "timestamp": "2025-07-21 17:34:43.872737"
+    },
+    {
+      "test_name": "resolution_512x512",
+      "resolution": [
+        512,
+        512
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "qkv_fusion_only",
+      "inference_time": 7.116240654000649,
+      "total_time": 8.18790904799971,
+      "memory_used": 40.14453125,
+      "memory_allocated": 35.48084020614624,
+      "gpu_utilization": 0,
+      "temperature": 53,
+      "power_draw": 90.734,
+      "prompt": "An abstract composition of geometric shapes in bold colors",
+      "seed": 45,
+      "timestamp": "2025-07-21 17:34:58.718973"
+    },
+    {
+      "test_name": "resolution_512x512",
+      "resolution": [
+        512,
+        512
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "qkv_fusion_only",
+      "inference_time": 7.1150749570006155,
+      "total_time": 7.8735530150006525,
+      "memory_used": 40.14453125,
+      "memory_allocated": 35.48084020614624,
+      "gpu_utilization": 0,
+      "temperature": 53,
+      "power_draw": 137.37,
+      "prompt": "A photorealistic still life of fresh fruits on a wooden table",
+      "seed": 46,
+      "timestamp": "2025-07-21 17:35:13.159421"
+    },
+    {
+      "test_name": "resolution_768x768",
+      "resolution": [
+        768,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "qkv_fusion_only",
+      "inference_time": 7.120359389000441,
+      "total_time": 7.730633347000548,
+      "memory_used": 40.14453125,
+      "memory_allocated": 35.48084020614624,
+      "gpu_utilization": 0,
+      "temperature": 55,
+      "power_draw": 181.54,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 17:35:35.406273"
+    },
+    {
+      "test_name": "resolution_768x768",
+      "resolution": [
+        768,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "qkv_fusion_only",
+      "inference_time": 7.127499124999304,
+      "total_time": 7.848000962998412,
+      "memory_used": 40.14453125,
+      "memory_allocated": 35.48084020614624,
+      "gpu_utilization": 0,
+      "temperature": 54,
+      "power_draw": 154.275,
+      "prompt": "A futuristic cyberpunk cityscape with neon lights and flying cars",
+      "seed": 43,
+      "timestamp": "2025-07-21 17:35:49.474113"
+    },
+    {
+      "test_name": "resolution_768x768",
+      "resolution": [
+        768,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "qkv_fusion_only",
+      "inference_time": 7.122509243001332,
+      "total_time": 7.680989950000367,
+      "memory_used": 40.14453125,
+      "memory_allocated": 35.48084020614624,
+      "gpu_utilization": 0,
+      "temperature": 54,
+      "power_draw": 198.672,
+      "prompt": "A detailed portrait of a wise elderly wizard with flowing beard",
+      "seed": 44,
+      "timestamp": "2025-07-21 17:36:03.718293"
+    },
+    {
+      "test_name": "resolution_768x768",
+      "resolution": [
+        768,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "qkv_fusion_only",
+      "inference_time": 7.12094154999977,
+      "total_time": 8.191013073001159,
+      "memory_used": 40.14453125,
+      "memory_allocated": 35.48084020614624,
+      "gpu_utilization": 0,
+      "temperature": 54,
+      "power_draw": 91.426,
+      "prompt": "An abstract composition of geometric shapes in bold colors",
+      "seed": 45,
+      "timestamp": "2025-07-21 17:36:18.084360"
+    },
+    {
+      "test_name": "resolution_768x768",
+      "resolution": [
+        768,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "qkv_fusion_only",
+      "inference_time": 7.116295132000232,
+      "total_time": 7.871564101000331,
+      "memory_used": 40.14453125,
+      "memory_allocated": 35.48084020614624,
+      "gpu_utilization": 0,
+      "temperature": 54,
+      "power_draw": 145.748,
+      "prompt": "A photorealistic still life of fresh fruits on a wooden table",
+      "seed": 46,
+      "timestamp": "2025-07-21 17:36:32.528352"
+    },
+    {
+      "test_name": "resolution_1024x1024",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "qkv_fusion_only",
+      "inference_time": 7.1158485430005385,
+      "total_time": 7.725453469998683,
+      "memory_used": 40.14453125,
+      "memory_allocated": 35.48084020614624,
+      "gpu_utilization": 0,
+      "temperature": 55,
+      "power_draw": 174.669,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 17:36:54.300050"
+    },
+    {
+      "test_name": "resolution_1024x1024",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "qkv_fusion_only",
+      "inference_time": 7.117514743998981,
+      "total_time": 7.829939657000068,
+      "memory_used": 40.14453125,
+      "memory_allocated": 35.48084020614624,
+      "gpu_utilization": 0,
+      "temperature": 55,
+      "power_draw": 153.932,
+      "prompt": "A futuristic cyberpunk cityscape with neon lights and flying cars",
+      "seed": 43,
+      "timestamp": "2025-07-21 17:37:08.616428"
+    },
+    {
+      "test_name": "resolution_1024x1024",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "qkv_fusion_only",
+      "inference_time": 7.124325607999708,
+      "total_time": 7.6840079039993725,
+      "memory_used": 40.14453125,
+      "memory_allocated": 35.48084020614624,
+      "gpu_utilization": 0,
+      "temperature": 55,
+      "power_draw": 189.965,
+      "prompt": "A detailed portrait of a wise elderly wizard with flowing beard",
+      "seed": 44,
+      "timestamp": "2025-07-21 17:37:22.421279"
+    },
+    {
+      "test_name": "resolution_1024x1024",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "qkv_fusion_only",
+      "inference_time": 7.127082386999973,
+      "total_time": 8.194157817000814,
+      "memory_used": 40.14453125,
+      "memory_allocated": 35.48084020614624,
+      "gpu_utilization": 0,
+      "temperature": 54,
+      "power_draw": 91.767,
+      "prompt": "An abstract composition of geometric shapes in bold colors",
+      "seed": 45,
+      "timestamp": "2025-07-21 17:37:36.955565"
+    },
+    {
+      "test_name": "resolution_1024x1024",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "qkv_fusion_only",
+      "inference_time": 7.11742972600041,
+      "total_time": 7.874610921000567,
+      "memory_used": 40.14453125,
+      "memory_allocated": 35.48084020614624,
+      "gpu_utilization": 0,
+      "temperature": 54,
+      "power_draw": 143.581,
+      "prompt": "A photorealistic still life of fresh fruits on a wooden table",
+      "seed": 46,
+      "timestamp": "2025-07-21 17:37:51.307553"
+    },
+    {
+      "test_name": "resolution_1280x720",
+      "resolution": [
+        1280,
+        720
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "qkv_fusion_only",
+      "inference_time": 7.043664523998814,
+      "total_time": 7.666140981000353,
+      "memory_used": 40.130859375,
+      "memory_allocated": 35.48084020614624,
+      "gpu_utilization": 0,
+      "temperature": 55,
+      "power_draw": 180.373,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 17:38:12.834939"
+    },
+    {
+      "test_name": "resolution_1280x720",
+      "resolution": [
+        1280,
+        720
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "qkv_fusion_only",
+      "inference_time": 7.061473398998714,
+      "total_time": 7.798231107000902,
+      "memory_used": 40.130859375,
+      "memory_allocated": 35.48084020614624,
+      "gpu_utilization": 0,
+      "temperature": 55,
+      "power_draw": 147.229,
+      "prompt": "A futuristic cyberpunk cityscape with neon lights and flying cars",
+      "seed": 43,
+      "timestamp": "2025-07-21 17:38:27.092521"
+    },
+    {
+      "test_name": "resolution_1280x720",
+      "resolution": [
+        1280,
+        720
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "qkv_fusion_only",
+      "inference_time": 7.057351102999746,
+      "total_time": 7.427991294000094,
+      "memory_used": 40.130859375,
+      "memory_allocated": 35.48084020614624,
+      "gpu_utilization": 0,
+      "temperature": 55,
+      "power_draw": 241.715,
+      "prompt": "A detailed portrait of a wise elderly wizard with flowing beard",
+      "seed": 44,
+      "timestamp": "2025-07-21 17:38:40.807657"
+    },
+    {
+      "test_name": "resolution_1280x720",
+      "resolution": [
+        1280,
+        720
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "qkv_fusion_only",
+      "inference_time": 7.06589275099941,
+      "total_time": 7.773587595000208,
+      "memory_used": 40.130859375,
+      "memory_allocated": 35.48084020614624,
+      "gpu_utilization": 0,
+      "temperature": 54,
+      "power_draw": 156.954,
+      "prompt": "An abstract composition of geometric shapes in bold colors",
+      "seed": 45,
+      "timestamp": "2025-07-21 17:38:54.763063"
+    },
+    {
+      "test_name": "resolution_1280x720",
+      "resolution": [
+        1280,
+        720
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "qkv_fusion_only",
+      "inference_time": 7.0581265069995425,
+      "total_time": 7.849156091999248,
+      "memory_used": 40.130859375,
+      "memory_allocated": 35.48084020614624,
+      "gpu_utilization": 0,
+      "temperature": 54,
+      "power_draw": 135.597,
+      "prompt": "A photorealistic still life of fresh fruits on a wooden table",
+      "seed": 46,
+      "timestamp": "2025-07-21 17:39:08.844503"
+    },
+    {
+      "test_name": "resolution_1024x768",
+      "resolution": [
+        1024,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "qkv_fusion_only",
+      "inference_time": 6.928767606999827,
+      "total_time": 7.559305732000212,
+      "memory_used": 40.072265625,
+      "memory_allocated": 35.48084020614624,
+      "gpu_utilization": 0,
+      "temperature": 55,
+      "power_draw": 176.893,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 17:39:30.556116"
+    },
+    {
+      "test_name": "resolution_1024x768",
+      "resolution": [
+        1024,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "qkv_fusion_only",
+      "inference_time": 6.937181987001168,
+      "total_time": 7.6623093750004045,
+      "memory_used": 40.072265625,
+      "memory_allocated": 35.48084020614624,
+      "gpu_utilization": 0,
+      "temperature": 55,
+      "power_draw": 152.523,
+      "prompt": "A futuristic cyberpunk cityscape with neon lights and flying cars",
+      "seed": 43,
+      "timestamp": "2025-07-21 17:39:44.425577"
+    },
+    {
+      "test_name": "resolution_1024x768",
+      "resolution": [
+        1024,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "qkv_fusion_only",
+      "inference_time": 6.934305946000677,
+      "total_time": 7.398662231998969,
+      "memory_used": 40.072265625,
+      "memory_allocated": 35.48084020614624,
+      "gpu_utilization": 0,
+      "temperature": 55,
+      "power_draw": 216.009,
+      "prompt": "A detailed portrait of a wise elderly wizard with flowing beard",
+      "seed": 44,
+      "timestamp": "2025-07-21 17:39:57.976211"
+    },
+    {
+      "test_name": "resolution_1024x768",
+      "resolution": [
+        1024,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "qkv_fusion_only",
+      "inference_time": 6.932947022000008,
+      "total_time": 7.721100759999899,
+      "memory_used": 40.072265625,
+      "memory_allocated": 35.48084020614624,
+      "gpu_utilization": 0,
+      "temperature": 54,
+      "power_draw": 138.143,
+      "prompt": "An abstract composition of geometric shapes in bold colors",
+      "seed": 45,
+      "timestamp": "2025-07-21 17:40:11.817439"
+    },
+    {
+      "test_name": "resolution_1024x768",
+      "resolution": [
+        1024,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "qkv_fusion_only",
+      "inference_time": 6.929095539999253,
+      "total_time": 7.71984315500049,
+      "memory_used": 40.072265625,
+      "memory_allocated": 35.48084020614624,
+      "gpu_utilization": 0,
+      "temperature": 54,
+      "power_draw": 134.527,
+      "prompt": "A photorealistic still life of fresh fruits on a wooden table",
+      "seed": 46,
+      "timestamp": "2025-07-21 17:40:25.744420"
+    },
+    {
+      "test_name": "resolution_512x512",
+      "resolution": [
+        512,
+        512
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "standard_opts",
+      "inference_time": 4.702393605999532,
+      "total_time": 5.286170960998788,
+      "memory_used": 38.5546875,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 45,
+      "power_draw": 195.663,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 18:02:38.295456"
+    },
+    {
+      "test_name": "resolution_512x512",
+      "resolution": [
+        512,
+        512
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "standard_opts",
+      "inference_time": 4.69561227000122,
+      "total_time": 5.429084072000478,
+      "memory_used": 38.5546875,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 46,
+      "power_draw": 154.512,
+      "prompt": "A futuristic cyberpunk cityscape with neon lights and flying cars",
+      "seed": 43,
+      "timestamp": "2025-07-21 18:02:52.790932"
+    },
+    {
+      "test_name": "resolution_512x512",
+      "resolution": [
+        512,
+        512
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "standard_opts",
+      "inference_time": 4.703767732000415,
+      "total_time": 5.264679134001199,
+      "memory_used": 38.5546875,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 46,
+      "power_draw": 198.071,
+      "prompt": "A detailed portrait of a wise elderly wizard with flowing beard",
+      "seed": 44,
+      "timestamp": "2025-07-21 18:03:07.681510"
+    },
+    {
+      "test_name": "resolution_512x512",
+      "resolution": [
+        512,
+        512
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "standard_opts",
+      "inference_time": 4.706723470000725,
+      "total_time": 5.701839651001137,
+      "memory_used": 38.5546875,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 46,
+      "power_draw": 85.513,
+      "prompt": "An abstract composition of geometric shapes in bold colors",
+      "seed": 45,
+      "timestamp": "2025-07-21 18:03:22.399419"
+    },
+    {
+      "test_name": "resolution_512x512",
+      "resolution": [
+        512,
+        512
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "standard_opts",
+      "inference_time": 4.705391241999678,
+      "total_time": 5.440145753998877,
+      "memory_used": 38.5546875,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 47,
+      "power_draw": 154.195,
+      "prompt": "A photorealistic still life of fresh fruits on a wooden table",
+      "seed": 46,
+      "timestamp": "2025-07-21 18:03:36.827291"
+    },
+    {
+      "test_name": "resolution_768x768",
+      "resolution": [
+        768,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "standard_opts",
+      "inference_time": 4.709647636000227,
+      "total_time": 5.288396125000872,
+      "memory_used": 38.5546875,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 49,
+      "power_draw": 192.409,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 18:03:56.580321"
+    },
+    {
+      "test_name": "resolution_768x768",
+      "resolution": [
+        768,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "standard_opts",
+      "inference_time": 4.7179660519996105,
+      "total_time": 5.44681594100075,
+      "memory_used": 38.5546875,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 48,
+      "power_draw": 156.752,
+      "prompt": "A futuristic cyberpunk cityscape with neon lights and flying cars",
+      "seed": 43,
+      "timestamp": "2025-07-21 18:04:11.578426"
+    },
+    {
+      "test_name": "resolution_768x768",
+      "resolution": [
+        768,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "standard_opts",
+      "inference_time": 4.713517852998848,
+      "total_time": 5.276563520999844,
+      "memory_used": 38.5546875,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 48,
+      "power_draw": 202.367,
+      "prompt": "A detailed portrait of a wise elderly wizard with flowing beard",
+      "seed": 44,
+      "timestamp": "2025-07-21 18:04:25.875246"
+    },
+    {
+      "test_name": "resolution_768x768",
+      "resolution": [
+        768,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "standard_opts",
+      "inference_time": 4.708118249000108,
+      "total_time": 5.70291905600061,
+      "memory_used": 38.5546875,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 48,
+      "power_draw": 86.778,
+      "prompt": "An abstract composition of geometric shapes in bold colors",
+      "seed": 45,
+      "timestamp": "2025-07-21 18:04:40.580670"
+    },
+    {
+      "test_name": "resolution_768x768",
+      "resolution": [
+        768,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "standard_opts",
+      "inference_time": 4.716855984999711,
+      "total_time": 5.453095466000377,
+      "memory_used": 38.5546875,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 48,
+      "power_draw": 152.304,
+      "prompt": "A photorealistic still life of fresh fruits on a wooden table",
+      "seed": 46,
+      "timestamp": "2025-07-21 18:04:55.073951"
+    },
+    {
+      "test_name": "resolution_1024x1024",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "standard_opts",
+      "inference_time": 4.7164564869999595,
+      "total_time": 5.295952487998875,
+      "memory_used": 38.5546875,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 49,
+      "power_draw": 199.557,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 18:05:15.235386"
+    },
+    {
+      "test_name": "resolution_1024x1024",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "standard_opts",
+      "inference_time": 4.724141425000198,
+      "total_time": 5.4533312849998765,
+      "memory_used": 38.5546875,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 49,
+      "power_draw": 156.423,
+      "prompt": "A futuristic cyberpunk cityscape with neon lights and flying cars",
+      "seed": 43,
+      "timestamp": "2025-07-21 18:05:29.805445"
+    },
+    {
+      "test_name": "resolution_1024x1024",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "standard_opts",
+      "inference_time": 4.724862631999713,
+      "total_time": 5.286160920000839,
+      "memory_used": 38.5546875,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 49,
+      "power_draw": 197.928,
+      "prompt": "A detailed portrait of a wise elderly wizard with flowing beard",
+      "seed": 44,
+      "timestamp": "2025-07-21 18:05:44.100799"
+    },
+    {
+      "test_name": "resolution_1024x1024",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "standard_opts",
+      "inference_time": 4.717365452999729,
+      "total_time": 5.712516969000717,
+      "memory_used": 38.5546875,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 49,
+      "power_draw": 86.786,
+      "prompt": "An abstract composition of geometric shapes in bold colors",
+      "seed": 45,
+      "timestamp": "2025-07-21 18:05:58.822234"
+    },
+    {
+      "test_name": "resolution_1024x1024",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "standard_opts",
+      "inference_time": 4.719067969001117,
+      "total_time": 5.459351224000784,
+      "memory_used": 38.5546875,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 49,
+      "power_draw": 156.395,
+      "prompt": "A photorealistic still life of fresh fruits on a wooden table",
+      "seed": 46,
+      "timestamp": "2025-07-21 18:06:13.354332"
+    },
+    {
+      "test_name": "resolution_1280x720",
+      "resolution": [
+        1280,
+        720
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "standard_opts",
+      "inference_time": 4.653302291000728,
+      "total_time": 5.239052349999838,
+      "memory_used": 38.548828125,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 50,
+      "power_draw": 190.813,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 18:06:33.421159"
+    },
+    {
+      "test_name": "resolution_1280x720",
+      "resolution": [
+        1280,
+        720
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "standard_opts",
+      "inference_time": 4.663196120000066,
+      "total_time": 5.407814938000229,
+      "memory_used": 38.548828125,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 49,
+      "power_draw": 155.176,
+      "prompt": "A futuristic cyberpunk cityscape with neon lights and flying cars",
+      "seed": 43,
+      "timestamp": "2025-07-21 18:06:47.853580"
+    },
+    {
+      "test_name": "resolution_1280x720",
+      "resolution": [
+        1280,
+        720
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "standard_opts",
+      "inference_time": 4.6581107980000525,
+      "total_time": 5.011545781000677,
+      "memory_used": 38.548828125,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 49,
+      "power_draw": 251.917,
+      "prompt": "A detailed portrait of a wise elderly wizard with flowing beard",
+      "seed": 44,
+      "timestamp": "2025-07-21 18:07:01.876589"
+    },
+    {
+      "test_name": "resolution_1280x720",
+      "resolution": [
+        1280,
+        720
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "standard_opts",
+      "inference_time": 4.656958126999598,
+      "total_time": 5.656913816999804,
+      "memory_used": 38.548828125,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 49,
+      "power_draw": 89.792,
+      "prompt": "An abstract composition of geometric shapes in bold colors",
+      "seed": 45,
+      "timestamp": "2025-07-21 18:07:16.613513"
+    },
+    {
+      "test_name": "resolution_1280x720",
+      "resolution": [
+        1280,
+        720
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "standard_opts",
+      "inference_time": 4.659353996999926,
+      "total_time": 5.411644838000939,
+      "memory_used": 38.548828125,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 49,
+      "power_draw": 154.808,
+      "prompt": "A photorealistic still life of fresh fruits on a wooden table",
+      "seed": 46,
+      "timestamp": "2025-07-21 18:07:31.359266"
+    },
+    {
+      "test_name": "resolution_1024x768",
+      "resolution": [
+        1024,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "standard_opts",
+      "inference_time": 4.560895981001522,
+      "total_time": 5.180681107000055,
+      "memory_used": 38.509765625,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 50,
+      "power_draw": 184.334,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 18:07:51.045974"
+    },
+    {
+      "test_name": "resolution_1024x768",
+      "resolution": [
+        1024,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "standard_opts",
+      "inference_time": 4.575224848000289,
+      "total_time": 5.2995568240003195,
+      "memory_used": 38.509765625,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 49,
+      "power_draw": 157.01,
+      "prompt": "A futuristic cyberpunk cityscape with neon lights and flying cars",
+      "seed": 43,
+      "timestamp": "2025-07-21 18:08:05.356324"
+    },
+    {
+      "test_name": "resolution_1024x768",
+      "resolution": [
+        1024,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "standard_opts",
+      "inference_time": 4.568606603001172,
+      "total_time": 5.037896852998529,
+      "memory_used": 38.509765625,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 49,
+      "power_draw": 224.849,
+      "prompt": "A detailed portrait of a wise elderly wizard with flowing beard",
+      "seed": 44,
+      "timestamp": "2025-07-21 18:08:19.439577"
+    },
+    {
+      "test_name": "resolution_1024x768",
+      "resolution": [
+        1024,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "standard_opts",
+      "inference_time": 4.567932281001049,
+      "total_time": 5.383727685000849,
+      "memory_used": 38.509765625,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 49,
+      "power_draw": 137.254,
+      "prompt": "An abstract composition of geometric shapes in bold colors",
+      "seed": 45,
+      "timestamp": "2025-07-21 18:08:33.897965"
+    },
+    {
+      "test_name": "resolution_1024x768",
+      "resolution": [
+        1024,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "standard_opts",
+      "inference_time": 4.568357768999704,
+      "total_time": 5.330719735000457,
+      "memory_used": 38.509765625,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 48,
+      "power_draw": 150.041,
+      "prompt": "A photorealistic still life of fresh fruits on a wooden table",
+      "seed": 46,
+      "timestamp": "2025-07-21 18:08:48.877694"
+    },
+    {
+      "test_name": "resolution_512x512",
+      "resolution": [
+        512,
+        512
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "full_optimization",
+      "inference_time": 2.716261266999936,
+      "total_time": 3.317171705999499,
+      "memory_used": 38.6328125,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 45,
+      "power_draw": 188.965,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 18:11:12.332851"
+    },
+    {
+      "test_name": "resolution_512x512",
+      "resolution": [
+        512,
+        512
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "full_optimization",
+      "inference_time": 2.724585653999384,
+      "total_time": 3.471058193999852,
+      "memory_used": 38.6328125,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 44,
+      "power_draw": 152.603,
+      "prompt": "A futuristic cyberpunk cityscape with neon lights and flying cars",
+      "seed": 43,
+      "timestamp": "2025-07-21 18:11:26.397097"
+    },
+    {
+      "test_name": "resolution_512x512",
+      "resolution": [
+        512,
+        512
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "full_optimization",
+      "inference_time": 2.709694428000148,
+      "total_time": 3.248342811999464,
+      "memory_used": 38.6328125,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 44,
+      "power_draw": 207.345,
+      "prompt": "A detailed portrait of a wise elderly wizard with flowing beard",
+      "seed": 44,
+      "timestamp": "2025-07-21 18:11:40.120818"
+    },
+    {
+      "test_name": "resolution_512x512",
+      "resolution": [
+        512,
+        512
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "full_optimization",
+      "inference_time": 2.7081000950001908,
+      "total_time": 3.7494945249982266,
+      "memory_used": 38.6328125,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 44,
+      "power_draw": 83.606,
+      "prompt": "An abstract composition of geometric shapes in bold colors",
+      "seed": 45,
+      "timestamp": "2025-07-21 18:11:54.180337"
+    },
+    {
+      "test_name": "resolution_512x512",
+      "resolution": [
+        512,
+        512
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "full_optimization",
+      "inference_time": 2.7048328689998016,
+      "total_time": 3.433662823001214,
+      "memory_used": 38.6328125,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 44,
+      "power_draw": 156.592,
+      "prompt": "A photorealistic still life of fresh fruits on a wooden table",
+      "seed": 46,
+      "timestamp": "2025-07-21 18:12:08.254227"
+    },
+    {
+      "test_name": "resolution_768x768",
+      "resolution": [
+        768,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "full_optimization",
+      "inference_time": 2.7057437160001427,
+      "total_time": 3.3038887070015335,
+      "memory_used": 38.6328125,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 45,
+      "power_draw": 191.167,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 18:12:25.014797"
+    },
+    {
+      "test_name": "resolution_768x768",
+      "resolution": [
+        768,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "full_optimization",
+      "inference_time": 2.7078815919994668,
+      "total_time": 3.44399518100181,
+      "memory_used": 38.6328125,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 44,
+      "power_draw": 155.827,
+      "prompt": "A futuristic cyberpunk cityscape with neon lights and flying cars",
+      "seed": 43,
+      "timestamp": "2025-07-21 18:12:39.089933"
+    },
+    {
+      "test_name": "resolution_768x768",
+      "resolution": [
+        768,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "full_optimization",
+      "inference_time": 2.706353229999877,
+      "total_time": 3.2452812070005166,
+      "memory_used": 38.6328125,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 44,
+      "power_draw": 205.882,
+      "prompt": "A detailed portrait of a wise elderly wizard with flowing beard",
+      "seed": 44,
+      "timestamp": "2025-07-21 18:12:52.391979"
+    },
+    {
+      "test_name": "resolution_768x768",
+      "resolution": [
+        768,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "full_optimization",
+      "inference_time": 2.6973614300004556,
+      "total_time": 3.7348043949987186,
+      "memory_used": 38.6328125,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 44,
+      "power_draw": 83.732,
+      "prompt": "An abstract composition of geometric shapes in bold colors",
+      "seed": 45,
+      "timestamp": "2025-07-21 18:13:06.163206"
+    },
+    {
+      "test_name": "resolution_768x768",
+      "resolution": [
+        768,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "full_optimization",
+      "inference_time": 2.704637566001111,
+      "total_time": 3.431782309000482,
+      "memory_used": 38.6328125,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 44,
+      "power_draw": 159.394,
+      "prompt": "A photorealistic still life of fresh fruits on a wooden table",
+      "seed": 46,
+      "timestamp": "2025-07-21 18:13:20.406706"
+    },
+    {
+      "test_name": "resolution_1024x1024",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "full_optimization",
+      "inference_time": 2.6931850250002753,
+      "total_time": 3.2938152759998047,
+      "memory_used": 38.6328125,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 45,
+      "power_draw": 192.053,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 18:13:36.982878"
+    },
+    {
+      "test_name": "resolution_1024x1024",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "full_optimization",
+      "inference_time": 2.6991512140011764,
+      "total_time": 3.4392867329988803,
+      "memory_used": 38.6328125,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 44,
+      "power_draw": 148.902,
+      "prompt": "A futuristic cyberpunk cityscape with neon lights and flying cars",
+      "seed": 43,
+      "timestamp": "2025-07-21 18:13:50.471578"
+    },
+    {
+      "test_name": "resolution_1024x1024",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "full_optimization",
+      "inference_time": 2.700693102000514,
+      "total_time": 3.2390814190002857,
+      "memory_used": 38.6328125,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 44,
+      "power_draw": 202.746,
+      "prompt": "A detailed portrait of a wise elderly wizard with flowing beard",
+      "seed": 44,
+      "timestamp": "2025-07-21 18:14:04.268580"
+    },
+    {
+      "test_name": "resolution_1024x1024",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "full_optimization",
+      "inference_time": 2.697628830999747,
+      "total_time": 3.734901904999788,
+      "memory_used": 38.6328125,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 44,
+      "power_draw": 84.002,
+      "prompt": "An abstract composition of geometric shapes in bold colors",
+      "seed": 45,
+      "timestamp": "2025-07-21 18:14:17.940216"
+    },
+    {
+      "test_name": "resolution_1024x1024",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "full_optimization",
+      "inference_time": 2.702428212000086,
+      "total_time": 3.42946263200065,
+      "memory_used": 38.6328125,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 44,
+      "power_draw": 158.828,
+      "prompt": "A photorealistic still life of fresh fruits on a wooden table",
+      "seed": 46,
+      "timestamp": "2025-07-21 18:14:31.392753"
+    },
+    {
+      "test_name": "resolution_1280x720",
+      "resolution": [
+        1280,
+        720
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "full_optimization",
+      "inference_time": 2.6526542430001427,
+      "total_time": 3.2610592219989485,
+      "memory_used": 38.626953125,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 45,
+      "power_draw": 191.681,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 18:14:47.703417"
+    },
+    {
+      "test_name": "resolution_1280x720",
+      "resolution": [
+        1280,
+        720
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "full_optimization",
+      "inference_time": 2.660674390999702,
+      "total_time": 3.417376117000458,
+      "memory_used": 38.626953125,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 45,
+      "power_draw": 153.097,
+      "prompt": "A futuristic cyberpunk cityscape with neon lights and flying cars",
+      "seed": 43,
+      "timestamp": "2025-07-21 18:15:00.703526"
+    },
+    {
+      "test_name": "resolution_1280x720",
+      "resolution": [
+        1280,
+        720
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "full_optimization",
+      "inference_time": 2.6620725619995937,
+      "total_time": 3.012414009001077,
+      "memory_used": 38.626953125,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 45,
+      "power_draw": 251.984,
+      "prompt": "A detailed portrait of a wise elderly wizard with flowing beard",
+      "seed": 44,
+      "timestamp": "2025-07-21 18:15:13.070185"
+    },
+    {
+      "test_name": "resolution_1280x720",
+      "resolution": [
+        1280,
+        720
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "full_optimization",
+      "inference_time": 2.6617112160001852,
+      "total_time": 3.3835784059992875,
+      "memory_used": 38.626953125,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 44,
+      "power_draw": 158.379,
+      "prompt": "An abstract composition of geometric shapes in bold colors",
+      "seed": 45,
+      "timestamp": "2025-07-21 18:15:25.773107"
+    },
+    {
+      "test_name": "resolution_1280x720",
+      "resolution": [
+        1280,
+        720
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "full_optimization",
+      "inference_time": 2.6653069209987734,
+      "total_time": 3.4357760839993716,
+      "memory_used": 38.626953125,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 44,
+      "power_draw": 145.465,
+      "prompt": "A photorealistic still life of fresh fruits on a wooden table",
+      "seed": 46,
+      "timestamp": "2025-07-21 18:15:38.604064"
+    },
+    {
+      "test_name": "resolution_1024x768",
+      "resolution": [
+        1024,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "full_optimization",
+      "inference_time": 2.612218042000677,
+      "total_time": 3.237907893000738,
+      "memory_used": 38.587890625,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 45,
+      "power_draw": 183.556,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 18:15:55.013949"
+    },
+    {
+      "test_name": "resolution_1024x768",
+      "resolution": [
+        1024,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "full_optimization",
+      "inference_time": 2.4030977909987996,
+      "total_time": 3.1202098679987103,
+      "memory_used": 38.587890625,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 45,
+      "power_draw": 154.683,
+      "prompt": "A futuristic cyberpunk cityscape with neon lights and flying cars",
+      "seed": 43,
+      "timestamp": "2025-07-21 18:16:07.483512"
+    },
+    {
+      "test_name": "resolution_1024x768",
+      "resolution": [
+        1024,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "full_optimization",
+      "inference_time": 2.6061838540008466,
+      "total_time": 3.0538820210003905,
+      "memory_used": 38.587890625,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 45,
+      "power_draw": 228.294,
+      "prompt": "A detailed portrait of a wise elderly wizard with flowing beard",
+      "seed": 44,
+      "timestamp": "2025-07-21 18:16:19.860474"
+    },
+    {
+      "test_name": "resolution_1024x768",
+      "resolution": [
+        1024,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "full_optimization",
+      "inference_time": 2.3987538199999108,
+      "total_time": 3.1452561169990076,
+      "memory_used": 38.587890625,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 44,
+      "power_draw": 149.861,
+      "prompt": "An abstract composition of geometric shapes in bold colors",
+      "seed": 45,
+      "timestamp": "2025-07-21 18:16:32.373678"
+    },
+    {
+      "test_name": "resolution_1024x768",
+      "resolution": [
+        1024,
+        768
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "full_optimization",
+      "inference_time": 2.396733514000516,
+      "total_time": 3.1599155470012192,
+      "memory_used": 38.587890625,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 44,
+      "power_draw": 143.174,
+      "prompt": "A photorealistic still life of fresh fruits on a wooden table",
+      "seed": 46,
+      "timestamp": "2025-07-21 18:16:45.739152"
+    },
+    {
+      "test_name": "steps_10",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 10,
+      "batch_size": 1,
+      "optimization_level": "baseline",
+      "inference_time": 3.6257497620008508,
+      "total_time": 4.240500676000011,
+      "memory_used": 36.16015625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 44,
+      "power_draw": 176.699,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 18:17:21.685811"
+    },
+    {
+      "test_name": "steps_10",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 10,
+      "batch_size": 1,
+      "optimization_level": "baseline",
+      "inference_time": 3.632060170999466,
+      "total_time": 4.385823790998984,
+      "memory_used": 36.16015625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 44,
+      "power_draw": 137.404,
+      "prompt": "A futuristic cyberpunk cityscape with neon lights and flying cars",
+      "seed": 43,
+      "timestamp": "2025-07-21 18:17:36.674903"
+    },
+    {
+      "test_name": "steps_10",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 10,
+      "batch_size": 1,
+      "optimization_level": "baseline",
+      "inference_time": 3.631010060000335,
+      "total_time": 4.189935514999888,
+      "memory_used": 36.16015625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 45,
+      "power_draw": 192.431,
+      "prompt": "A detailed portrait of a wise elderly wizard with flowing beard",
+      "seed": 44,
+      "timestamp": "2025-07-21 18:17:51.329606"
+    },
+    {
+      "test_name": "steps_10",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 10,
+      "batch_size": 1,
+      "optimization_level": "baseline",
+      "inference_time": 3.62550143199951,
+      "total_time": 4.690232226999797,
+      "memory_used": 36.16015625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 45,
+      "power_draw": 84.464,
+      "prompt": "An abstract composition of geometric shapes in bold colors",
+      "seed": 45,
+      "timestamp": "2025-07-21 18:18:06.397824"
+    },
+    {
+      "test_name": "steps_10",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 10,
+      "batch_size": 1,
+      "optimization_level": "baseline",
+      "inference_time": 3.628633368998635,
+      "total_time": 4.418984050998915,
+      "memory_used": 36.16015625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 45,
+      "power_draw": 130.335,
+      "prompt": "A photorealistic still life of fresh fruits on a wooden table",
+      "seed": 46,
+      "timestamp": "2025-07-21 18:18:21.222227"
+    },
+    {
+      "test_name": "steps_20",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "baseline",
+      "inference_time": 7.080191967999781,
+      "total_time": 7.700219903001198,
+      "memory_used": 36.16015625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 49,
+      "power_draw": 171.057,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 18:18:47.032627"
+    },
+    {
+      "test_name": "steps_20",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "baseline",
+      "inference_time": 7.091723393999928,
+      "total_time": 7.810834388999865,
+      "memory_used": 36.16015625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 49,
+      "power_draw": 153.365,
+      "prompt": "A futuristic cyberpunk cityscape with neon lights and flying cars",
+      "seed": 43,
+      "timestamp": "2025-07-21 18:19:05.068256"
+    },
+    {
+      "test_name": "steps_20",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "baseline",
+      "inference_time": 7.101173410001138,
+      "total_time": 7.657681741999113,
+      "memory_used": 36.16015625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 50,
+      "power_draw": 190.984,
+      "prompt": "A detailed portrait of a wise elderly wizard with flowing beard",
+      "seed": 44,
+      "timestamp": "2025-07-21 18:19:22.507724"
+    },
+    {
+      "test_name": "steps_20",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "baseline",
+      "inference_time": 7.0936374770008115,
+      "total_time": 8.169715157999235,
+      "memory_used": 36.16015625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 50,
+      "power_draw": 88.059,
+      "prompt": "An abstract composition of geometric shapes in bold colors",
+      "seed": 45,
+      "timestamp": "2025-07-21 18:19:40.960552"
+    },
+    {
+      "test_name": "steps_20",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "baseline",
+      "inference_time": 7.100262010999359,
+      "total_time": 7.859682754999085,
+      "memory_used": 36.16015625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 50,
+      "power_draw": 133.949,
+      "prompt": "A photorealistic still life of fresh fruits on a wooden table",
+      "seed": 46,
+      "timestamp": "2025-07-21 18:19:58.513181"
+    },
+    {
+      "test_name": "steps_28",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 28,
+      "batch_size": 1,
+      "optimization_level": "baseline",
+      "inference_time": 9.887824852999984,
+      "total_time": 10.515933144999508,
+      "memory_used": 36.16015625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 54,
+      "power_draw": 175.385,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 18:20:29.787865"
+    },
+    {
+      "test_name": "steps_28",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 28,
+      "batch_size": 1,
+      "optimization_level": "baseline",
+      "inference_time": 9.894802759999948,
+      "total_time": 10.595589070000642,
+      "memory_used": 36.16015625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 54,
+      "power_draw": 159.142,
+      "prompt": "A futuristic cyberpunk cityscape with neon lights and flying cars",
+      "seed": 43,
+      "timestamp": "2025-07-21 18:20:50.468985"
+    },
+    {
+      "test_name": "steps_28",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 28,
+      "batch_size": 1,
+      "optimization_level": "baseline",
+      "inference_time": 9.898944141999891,
+      "total_time": 10.516387159999795,
+      "memory_used": 36.16015625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 54,
+      "power_draw": 178.309,
+      "prompt": "A detailed portrait of a wise elderly wizard with flowing beard",
+      "seed": 44,
+      "timestamp": "2025-07-21 18:21:10.737740"
+    },
+    {
+      "test_name": "steps_28",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 28,
+      "batch_size": 1,
+      "optimization_level": "baseline",
+      "inference_time": 9.898143477001213,
+      "total_time": 10.942536663998908,
+      "memory_used": 36.16015625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 54,
+      "power_draw": 91.625,
+      "prompt": "An abstract composition of geometric shapes in bold colors",
+      "seed": 45,
+      "timestamp": "2025-07-21 18:21:31.365459"
+    },
+    {
+      "test_name": "steps_28",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 28,
+      "batch_size": 1,
+      "optimization_level": "baseline",
+      "inference_time": 9.90136040300058,
+      "total_time": 10.637630031000299,
+      "memory_used": 36.16015625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 54,
+      "power_draw": 149.244,
+      "prompt": "A photorealistic still life of fresh fruits on a wooden table",
+      "seed": 46,
+      "timestamp": "2025-07-21 18:21:52.144131"
+    },
+    {
+      "test_name": "steps_50",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 50,
+      "batch_size": 1,
+      "optimization_level": "baseline",
+      "inference_time": 17.546385653999096,
+      "total_time": 18.18629577000138,
+      "memory_used": 36.16015625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 58,
+      "power_draw": 177.521,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 18:22:38.408857"
+    },
+    {
+      "test_name": "steps_50",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 50,
+      "batch_size": 1,
+      "optimization_level": "baseline",
+      "inference_time": 17.567915794999863,
+      "total_time": 18.265013812999314,
+      "memory_used": 36.16015625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 58,
+      "power_draw": 163.026,
+      "prompt": "A futuristic cyberpunk cityscape with neon lights and flying cars",
+      "seed": 43,
+      "timestamp": "2025-07-21 18:23:06.633366"
+    },
+    {
+      "test_name": "steps_50",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 50,
+      "batch_size": 1,
+      "optimization_level": "baseline",
+      "inference_time": 17.56305997799973,
+      "total_time": 18.191914379998707,
+      "memory_used": 36.16015625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 58,
+      "power_draw": 179.744,
+      "prompt": "A detailed portrait of a wise elderly wizard with flowing beard",
+      "seed": 44,
+      "timestamp": "2025-07-21 18:23:34.532738"
+    },
+    {
+      "test_name": "steps_50",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 50,
+      "batch_size": 1,
+      "optimization_level": "baseline",
+      "inference_time": 17.56138893500065,
+      "total_time": 18.45883245600089,
+      "memory_used": 36.16015625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 58,
+      "power_draw": 114.023,
+      "prompt": "An abstract composition of geometric shapes in bold colors",
+      "seed": 45,
+      "timestamp": "2025-07-21 18:24:03.172980"
+    },
+    {
+      "test_name": "steps_50",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 50,
+      "batch_size": 1,
+      "optimization_level": "baseline",
+      "inference_time": 17.570163206999496,
+      "total_time": 18.30491473800066,
+      "memory_used": 36.16015625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 58,
+      "power_draw": 150.007,
+      "prompt": "A photorealistic still life of fresh fruits on a wooden table",
+      "seed": 46,
+      "timestamp": "2025-07-21 18:24:31.142731"
+    },
+    {
+      "test_name": "steps_10",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 10,
+      "batch_size": 1,
+      "optimization_level": "full_optimization",
+      "inference_time": 1.9763267420003103,
+      "total_time": 2.568930539999201,
+      "memory_used": 38.6328125,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 45,
+      "power_draw": 189.987,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 18:26:42.047756"
+    },
+    {
+      "test_name": "steps_10",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 10,
+      "batch_size": 1,
+      "optimization_level": "full_optimization",
+      "inference_time": 1.9630545239997446,
+      "total_time": 2.7094501669998863,
+      "memory_used": 38.6328125,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 44,
+      "power_draw": 142.954,
+      "prompt": "A futuristic cyberpunk cityscape with neon lights and flying cars",
+      "seed": 43,
+      "timestamp": "2025-07-21 18:26:54.281171"
+    },
+    {
+      "test_name": "steps_10",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 10,
+      "batch_size": 1,
+      "optimization_level": "full_optimization",
+      "inference_time": 1.958994000999155,
+      "total_time": 2.483459357999891,
+      "memory_used": 38.6328125,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 44,
+      "power_draw": 205.228,
+      "prompt": "A detailed portrait of a wise elderly wizard with flowing beard",
+      "seed": 44,
+      "timestamp": "2025-07-21 18:27:06.559935"
+    },
+    {
+      "test_name": "steps_10",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 10,
+      "batch_size": 1,
+      "optimization_level": "full_optimization",
+      "inference_time": 1.9604803130005166,
+      "total_time": 2.9735346750003373,
+      "memory_used": 38.6328125,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 43,
+      "power_draw": 84.507,
+      "prompt": "An abstract composition of geometric shapes in bold colors",
+      "seed": 45,
+      "timestamp": "2025-07-21 18:27:18.878015"
+    },
+    {
+      "test_name": "steps_10",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 10,
+      "batch_size": 1,
+      "optimization_level": "full_optimization",
+      "inference_time": 1.959717523001018,
+      "total_time": 2.717381522001233,
+      "memory_used": 38.6328125,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 43,
+      "power_draw": 144.203,
+      "prompt": "A photorealistic still life of fresh fruits on a wooden table",
+      "seed": 46,
+      "timestamp": "2025-07-21 18:27:31.595079"
+    },
+    {
+      "test_name": "steps_20",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "full_optimization",
+      "inference_time": 2.6902978839989373,
+      "total_time": 3.2844886849998147,
+      "memory_used": 38.6328125,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 44,
+      "power_draw": 187.671,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 18:27:47.523856"
+    },
+    {
+      "test_name": "steps_20",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "full_optimization",
+      "inference_time": 2.693580806000682,
+      "total_time": 3.4273480830015615,
+      "memory_used": 38.6328125,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 44,
+      "power_draw": 157.823,
+      "prompt": "A futuristic cyberpunk cityscape with neon lights and flying cars",
+      "seed": 43,
+      "timestamp": "2025-07-21 18:28:00.454388"
+    },
+    {
+      "test_name": "steps_20",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "full_optimization",
+      "inference_time": 2.693243005000113,
+      "total_time": 3.22876961700058,
+      "memory_used": 38.6328125,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 44,
+      "power_draw": 208.781,
+      "prompt": "A detailed portrait of a wise elderly wizard with flowing beard",
+      "seed": 44,
+      "timestamp": "2025-07-21 18:28:13.446870"
+    },
+    {
+      "test_name": "steps_20",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "full_optimization",
+      "inference_time": 2.692073803000312,
+      "total_time": 3.7274148919987056,
+      "memory_used": 38.6328125,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 44,
+      "power_draw": 83.897,
+      "prompt": "An abstract composition of geometric shapes in bold colors",
+      "seed": 45,
+      "timestamp": "2025-07-21 18:28:26.465687"
+    },
+    {
+      "test_name": "steps_20",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "full_optimization",
+      "inference_time": 2.6943123299988656,
+      "total_time": 3.4186940220006363,
+      "memory_used": 38.6328125,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 44,
+      "power_draw": 155.729,
+      "prompt": "A photorealistic still life of fresh fruits on a wooden table",
+      "seed": 46,
+      "timestamp": "2025-07-21 18:28:39.229089"
+    },
+    {
+      "test_name": "steps_28",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 28,
+      "batch_size": 1,
+      "optimization_level": "full_optimization",
+      "inference_time": 2.966920492001009,
+      "total_time": 3.575614958999722,
+      "memory_used": 38.6328125,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 45,
+      "power_draw": 184.586,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 18:28:56.249541"
+    },
+    {
+      "test_name": "steps_28",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 28,
+      "batch_size": 1,
+      "optimization_level": "full_optimization",
+      "inference_time": 2.973692026998833,
+      "total_time": 3.6553571710010146,
+      "memory_used": 38.6328125,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 45,
+      "power_draw": 165.299,
+      "prompt": "A futuristic cyberpunk cityscape with neon lights and flying cars",
+      "seed": 43,
+      "timestamp": "2025-07-21 18:29:09.196819"
+    },
+    {
+      "test_name": "steps_28",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 28,
+      "batch_size": 1,
+      "optimization_level": "full_optimization",
+      "inference_time": 2.9693231179990107,
+      "total_time": 3.5622868680002284,
+      "memory_used": 38.6328125,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 45,
+      "power_draw": 193.958,
+      "prompt": "A detailed portrait of a wise elderly wizard with flowing beard",
+      "seed": 44,
+      "timestamp": "2025-07-21 18:29:22.079843"
+    },
+    {
+      "test_name": "steps_28",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 28,
+      "batch_size": 1,
+      "optimization_level": "full_optimization",
+      "inference_time": 2.9640644360006263,
+      "total_time": 3.9759116810000705,
+      "memory_used": 38.6328125,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 44,
+      "power_draw": 84.693,
+      "prompt": "An abstract composition of geometric shapes in bold colors",
+      "seed": 45,
+      "timestamp": "2025-07-21 18:29:35.795350"
+    },
+    {
+      "test_name": "steps_28",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 28,
+      "batch_size": 1,
+      "optimization_level": "full_optimization",
+      "inference_time": 2.96758193200003,
+      "total_time": 3.663556690000405,
+      "memory_used": 38.6328125,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 45,
+      "power_draw": 158.616,
+      "prompt": "A photorealistic still life of fresh fruits on a wooden table",
+      "seed": 46,
+      "timestamp": "2025-07-21 18:29:48.902479"
+    },
+    {
+      "test_name": "steps_50",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 50,
+      "batch_size": 1,
+      "optimization_level": "full_optimization",
+      "inference_time": 3.7622929089993704,
+      "total_time": 4.3923858600010135,
+      "memory_used": 38.6328125,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 46,
+      "power_draw": 179.263,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 18:30:06.997354"
+    },
+    {
+      "test_name": "steps_50",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 50,
+      "batch_size": 1,
+      "optimization_level": "full_optimization",
+      "inference_time": 3.542209688001094,
+      "total_time": 4.2028827310005,
+      "memory_used": 38.6328125,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 46,
+      "power_draw": 164.924,
+      "prompt": "A futuristic cyberpunk cityscape with neon lights and flying cars",
+      "seed": 43,
+      "timestamp": "2025-07-21 18:30:20.522329"
+    },
+    {
+      "test_name": "steps_50",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 50,
+      "batch_size": 1,
+      "optimization_level": "full_optimization",
+      "inference_time": 3.5452588469997863,
+      "total_time": 4.166386365999642,
+      "memory_used": 38.6328125,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 46,
+      "power_draw": 181.76,
+      "prompt": "A detailed portrait of a wise elderly wizard with flowing beard",
+      "seed": 44,
+      "timestamp": "2025-07-21 18:30:34.567163"
+    },
+    {
+      "test_name": "steps_50",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 50,
+      "batch_size": 1,
+      "optimization_level": "full_optimization",
+      "inference_time": 3.53917220799849,
+      "total_time": 4.561870138000813,
+      "memory_used": 38.6328125,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 46,
+      "power_draw": 85.41,
+      "prompt": "An abstract composition of geometric shapes in bold colors",
+      "seed": 45,
+      "timestamp": "2025-07-21 18:30:48.420868"
+    },
+    {
+      "test_name": "steps_50",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 50,
+      "batch_size": 1,
+      "optimization_level": "full_optimization",
+      "inference_time": 3.5457291260008788,
+      "total_time": 4.238137355998333,
+      "memory_used": 38.6328125,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 46,
+      "power_draw": 165.527,
+      "prompt": "A photorealistic still life of fresh fruits on a wooden table",
+      "seed": 46,
+      "timestamp": "2025-07-21 18:31:01.949516"
+    },
+    {
+      "test_name": "batch_1",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "baseline",
+      "inference_time": 7.083529986999565,
+      "total_time": 7.700058942000396,
+      "memory_used": 36.16015625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 48,
+      "power_draw": 177.128,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 18:31:44.478741"
+    },
+    {
+      "test_name": "batch_1",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "baseline",
+      "inference_time": 7.084272608999527,
+      "total_time": 7.701106622000225,
+      "memory_used": 36.16015625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 48,
+      "power_draw": 176.366,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 18:32:03.412265"
+    },
+    {
+      "test_name": "batch_1",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "baseline",
+      "inference_time": 7.089949610999611,
+      "total_time": 7.710156451999865,
+      "memory_used": 36.16015625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 49,
+      "power_draw": 179.107,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 18:32:21.841269"
+    },
+    {
+      "test_name": "batch_1",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "baseline",
+      "inference_time": 7.091904320999674,
+      "total_time": 7.707994572001553,
+      "memory_used": 36.16015625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 49,
+      "power_draw": 179.503,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 18:32:40.160834"
+    },
+    {
+      "test_name": "batch_1",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "baseline",
+      "inference_time": 7.088073824001185,
+      "total_time": 7.7012593950003065,
+      "memory_used": 36.16015625,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 50,
+      "power_draw": 180.212,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 18:32:58.434078"
+    },
+    {
+      "test_name": "batch_2",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 2,
+      "optimization_level": "baseline",
+      "inference_time": 13.868973544000255,
+      "total_time": 15.140931371999613,
+      "memory_used": 41.755859375,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 55,
+      "power_draw": 92.13,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 18:33:39.276146"
+    },
+    {
+      "test_name": "batch_2",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 2,
+      "optimization_level": "baseline",
+      "inference_time": 13.876826147999964,
+      "total_time": 15.142796968000766,
+      "memory_used": 41.755859375,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 55,
+      "power_draw": 92.694,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 18:34:04.952146"
+    },
+    {
+      "test_name": "batch_2",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 2,
+      "optimization_level": "baseline",
+      "inference_time": 13.890395847000036,
+      "total_time": 15.156767080999998,
+      "memory_used": 41.755859375,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 55,
+      "power_draw": 93.035,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 18:34:30.234413"
+    },
+    {
+      "test_name": "batch_2",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 2,
+      "optimization_level": "baseline",
+      "inference_time": 13.891318980000506,
+      "total_time": 15.161491876999207,
+      "memory_used": 41.755859375,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 56,
+      "power_draw": 93.272,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 18:34:55.517544"
+    },
+    {
+      "test_name": "batch_2",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 2,
+      "optimization_level": "baseline",
+      "inference_time": 13.887508665000496,
+      "total_time": 15.155356866000147,
+      "memory_used": 41.755859375,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 56,
+      "power_draw": 93.354,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 18:35:21.130283"
+    },
+    {
+      "test_name": "batch_4",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 4,
+      "optimization_level": "baseline",
+      "inference_time": 27.23563097100123,
+      "total_time": 29.6522553040013,
+      "memory_used": 51.939453125,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 59,
+      "power_draw": 95.194,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 18:36:30.980249"
+    },
+    {
+      "test_name": "batch_4",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 4,
+      "optimization_level": "baseline",
+      "inference_time": 27.24350340899946,
+      "total_time": 29.65692517000025,
+      "memory_used": 51.939453125,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 59,
+      "power_draw": 95.327,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 18:37:10.936953"
+    },
+    {
+      "test_name": "batch_4",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 4,
+      "optimization_level": "baseline",
+      "inference_time": 27.250354174999302,
+      "total_time": 29.663204806000067,
+      "memory_used": 51.939453125,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 59,
+      "power_draw": 95.064,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 18:37:50.689507"
+    },
+    {
+      "test_name": "batch_4",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 4,
+      "optimization_level": "baseline",
+      "inference_time": 27.248310495000624,
+      "total_time": 29.664171686999907,
+      "memory_used": 51.939453125,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 59,
+      "power_draw": 95.154,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 18:38:30.778836"
+    },
+    {
+      "test_name": "batch_4",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 4,
+      "optimization_level": "baseline",
+      "inference_time": 27.249438549000843,
+      "total_time": 29.668941915000687,
+      "memory_used": 51.939453125,
+      "memory_allocated": 31.468787670135498,
+      "gpu_utilization": 0,
+      "temperature": 59,
+      "power_draw": 95.316,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 18:39:10.877819"
+    },
+    {
+      "test_name": "batch_1",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "full_optimization",
+      "inference_time": 2.8581922320008744,
+      "total_time": 3.4735891800009995,
+      "memory_used": 38.62890625,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 47,
+      "power_draw": 171.562,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 18:41:02.882949"
+    },
+    {
+      "test_name": "batch_1",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "full_optimization",
+      "inference_time": 2.853891284999918,
+      "total_time": 3.466560787999697,
+      "memory_used": 38.62890625,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 47,
+      "power_draw": 167.09,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 18:41:15.854257"
+    },
+    {
+      "test_name": "batch_1",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "full_optimization",
+      "inference_time": 2.846777074999409,
+      "total_time": 3.4577261329995963,
+      "memory_used": 38.62890625,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 46,
+      "power_draw": 171.759,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 18:41:29.455445"
+    },
+    {
+      "test_name": "batch_1",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "full_optimization",
+      "inference_time": 2.8536965809998946,
+      "total_time": 3.468550329000209,
+      "memory_used": 38.62890625,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 46,
+      "power_draw": 172.944,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 18:41:42.385688"
+    },
+    {
+      "test_name": "batch_1",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 1,
+      "optimization_level": "full_optimization",
+      "inference_time": 2.840503331999571,
+      "total_time": 3.4516022879997763,
+      "memory_used": 38.62890625,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 45,
+      "power_draw": 171.698,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 18:41:55.708736"
+    },
+    {
+      "test_name": "batch_2",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 2,
+      "optimization_level": "full_optimization",
+      "inference_time": 5.6348648710009,
+      "total_time": 6.899521801000446,
+      "memory_used": 42.015625,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 48,
+      "power_draw": 86.351,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 18:42:19.210154"
+    },
+    {
+      "test_name": "batch_2",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 2,
+      "optimization_level": "full_optimization",
+      "inference_time": 5.628851473000395,
+      "total_time": 6.888255538999147,
+      "memory_used": 42.015625,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 48,
+      "power_draw": 86.439,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 18:42:36.017470"
+    },
+    {
+      "test_name": "batch_2",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 2,
+      "optimization_level": "full_optimization",
+      "inference_time": 5.633603440001025,
+      "total_time": 6.89668084799996,
+      "memory_used": 42.015625,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 48,
+      "power_draw": 86.49,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 18:42:52.631375"
+    },
+    {
+      "test_name": "batch_2",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 2,
+      "optimization_level": "full_optimization",
+      "inference_time": 5.629136532999837,
+      "total_time": 6.885733053999502,
+      "memory_used": 42.015625,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 48,
+      "power_draw": 86.563,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 18:43:09.016363"
+    },
+    {
+      "test_name": "batch_2",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 2,
+      "optimization_level": "full_optimization",
+      "inference_time": 5.632868190999943,
+      "total_time": 6.890113020001081,
+      "memory_used": 42.015625,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 48,
+      "power_draw": 86.565,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 18:43:26.042385"
+    },
+    {
+      "test_name": "batch_4",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 4,
+      "optimization_level": "full_optimization",
+      "inference_time": 11.020530858999336,
+      "total_time": 13.417126995998842,
+      "memory_used": 48.58203125,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 52,
+      "power_draw": 89.216,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 18:44:02.430752"
+    },
+    {
+      "test_name": "batch_4",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 4,
+      "optimization_level": "full_optimization",
+      "inference_time": 11.031920657000228,
+      "total_time": 13.42600068899992,
+      "memory_used": 48.58203125,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 52,
+      "power_draw": 89.473,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 18:44:25.718237"
+    },
+    {
+      "test_name": "batch_4",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 4,
+      "optimization_level": "full_optimization",
+      "inference_time": 11.030527676999554,
+      "total_time": 13.427475262998996,
+      "memory_used": 48.58203125,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 52,
+      "power_draw": 89.827,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 18:44:48.565672"
+    },
+    {
+      "test_name": "batch_4",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 4,
+      "optimization_level": "full_optimization",
+      "inference_time": 11.01794450899979,
+      "total_time": 13.408551983000507,
+      "memory_used": 48.58203125,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 53,
+      "power_draw": 90.085,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 18:45:11.323067"
+    },
+    {
+      "test_name": "batch_4",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "batch_size": 4,
+      "optimization_level": "full_optimization",
+      "inference_time": 11.018990116001078,
+      "total_time": 13.412676433999877,
+      "memory_used": 48.58203125,
+      "memory_allocated": 35.48010778427124,
+      "gpu_utilization": 0,
+      "temperature": 53,
+      "power_draw": 90.061,
+      "prompt": "A serene mountain landscape at sunset with vibrant colors",
+      "seed": 42,
+      "timestamp": "2025-07-21 18:45:34.076699"
+    }
+  ],
+  "summary": [
+    {
+      "optimization_level": "baseline",
+      "resolution": [
+        512,
+        512
+      ],
+      "steps": "20",
+      "batch_size": "1",
+      "inference_time_mean": 7.068705742333198,
+      "inference_time_std": 0.016935624023097673,
+      "inference_time_median": 7.0657352859998355,
+      "memory_used_mean": 36.16015625,
+      "samples": 5
+    },
+    {
+      "optimization_level": "baseline",
+      "resolution": [
+        768,
+        768
+      ],
+      "steps": "20",
+      "batch_size": "1",
+      "inference_time_mean": 7.142472844000015,
+      "inference_time_std": 0.009538301658567951,
+      "inference_time_median": 7.138624518000142,
+      "memory_used_mean": 36.16015625,
+      "samples": 5
+    },
+    {
+      "optimization_level": "baseline",
+      "resolution": [
+        1024,
+        768
+      ],
+      "steps": "20",
+      "batch_size": "1",
+      "inference_time_mean": 6.955409703999976,
+      "inference_time_std": 0.0007535846800165256,
+      "inference_time_median": 6.954983171000094,
+      "memory_used_mean": 36.087890625,
+      "samples": 5
+    },
+    {
+      "optimization_level": "baseline",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": "10",
+      "batch_size": "1",
+      "inference_time_mean": 3.62846439699994,
+      "inference_time_std": 0.002634216660243082,
+      "inference_time_median": 3.628633368998635,
+      "memory_used_mean": 36.16015625,
+      "samples": 5
+    },
+    {
+      "optimization_level": "baseline",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": "20",
+      "batch_size": "1",
+      "inference_time_mean": 7.108411361307704,
+      "inference_time_std": 0.02683175935994895,
+      "inference_time_median": 7.0936374770008115,
+      "memory_used_mean": 36.16015625,
+      "samples": 15
+    },
+    {
+      "optimization_level": "baseline",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": "20",
+      "batch_size": "2",
+      "inference_time_mean": 13.884910220000165,
+      "inference_time_std": 0.0071482949052868085,
+      "inference_time_median": 13.887508665000496,
+      "memory_used_mean": 41.755859375,
+      "samples": 5
+    },
+    {
+      "optimization_level": "baseline",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": "20",
+      "batch_size": "4",
+      "inference_time_mean": 27.24708415100031,
+      "inference_time_std": 0.003151890133608505,
+      "inference_time_median": 27.248310495000624,
+      "memory_used_mean": 51.939453125,
+      "samples": 5
+    },
+    {
+      "optimization_level": "baseline",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": "28",
+      "batch_size": "1",
+      "inference_time_mean": 9.89729679300035,
+      "inference_time_std": 0.002196683082593151,
+      "inference_time_median": 9.898143477001213,
+      "memory_used_mean": 36.16015625,
+      "samples": 5
+    },
+    {
+      "optimization_level": "baseline",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": "50",
+      "batch_size": "1",
+      "inference_time_mean": 17.564121569333413,
+      "inference_time_std": 0.0033904582997209133,
+      "inference_time_median": 17.56305997799973,
+      "memory_used_mean": 36.16015625,
+      "samples": 5
+    },
+    {
+      "optimization_level": "baseline",
+      "resolution": [
+        1280,
+        720
+      ],
+      "steps": "20",
+      "batch_size": "1",
+      "inference_time_mean": 7.102879475000009,
+      "inference_time_std": 0.0027666804975804335,
+      "inference_time_median": 7.1025397040002645,
+      "memory_used_mean": 36.146484375,
+      "samples": 5
+    },
+    {
+      "optimization_level": "channels_last_only",
+      "resolution": [
+        512,
+        512
+      ],
+      "steps": "20",
+      "batch_size": "1",
+      "inference_time_mean": 7.1911302040007286,
+      "inference_time_std": 0.0041073002785658235,
+      "inference_time_median": 7.190690876999724,
+      "memory_used_mean": 34.896484375,
+      "samples": 5
+    },
+    {
+      "optimization_level": "channels_last_only",
+      "resolution": [
+        768,
+        768
+      ],
+      "steps": "20",
+      "batch_size": "1",
+      "inference_time_mean": 7.207468557667501,
+      "inference_time_std": 0.0029187097948565675,
+      "inference_time_median": 7.208725743001196,
+      "memory_used_mean": 34.896484375,
+      "samples": 5
+    },
+    {
+      "optimization_level": "channels_last_only",
+      "resolution": [
+        1024,
+        768
+      ],
+      "steps": "20",
+      "batch_size": "1",
+      "inference_time_mean": 6.996833049333873,
+      "inference_time_std": 0.003999303281603525,
+      "inference_time_median": 6.998723477001477,
+      "memory_used_mean": 34.8515625,
+      "samples": 5
+    },
+    {
+      "optimization_level": "channels_last_only",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": "20",
+      "batch_size": "1",
+      "inference_time_mean": 7.210895185999107,
+      "inference_time_std": 0.0011601198239789357,
+      "inference_time_median": 7.210706406998725,
+      "memory_used_mean": 34.896484375,
+      "samples": 5
+    },
+    {
+      "optimization_level": "channels_last_only",
+      "resolution": [
+        1280,
+        720
+      ],
+      "steps": "20",
+      "batch_size": "1",
+      "inference_time_mean": 7.151013982333097,
+      "inference_time_std": 0.0039324787870668775,
+      "inference_time_median": 7.152856367998538,
+      "memory_used_mean": 34.890625,
+      "samples": 5
+    },
+    {
+      "optimization_level": "compile_only",
+      "resolution": [
+        512,
+        512
+      ],
+      "steps": "20",
+      "batch_size": "1",
+      "inference_time_mean": 4.7426658196660965,
+      "inference_time_std": 0.0020082748625235365,
+      "inference_time_median": 4.743540559000394,
+      "memory_used_mean": 36.01171875,
+      "samples": 5
+    },
+    {
+      "optimization_level": "compile_only",
+      "resolution": [
+        768,
+        768
+      ],
+      "steps": "20",
+      "batch_size": "1",
+      "inference_time_mean": 4.761879347000407,
+      "inference_time_std": 0.00395829387226794,
+      "inference_time_median": 4.760518832001253,
+      "memory_used_mean": 36.01171875,
+      "samples": 5
+    },
+    {
+      "optimization_level": "compile_only",
+      "resolution": [
+        1024,
+        768
+      ],
+      "steps": "20",
+      "batch_size": "1",
+      "inference_time_mean": 4.607026125334111,
+      "inference_time_std": 0.002180723637960827,
+      "inference_time_median": 4.608015892001276,
+      "memory_used_mean": 35.935546875,
+      "samples": 5
+    },
+    {
+      "optimization_level": "compile_only",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": "20",
+      "batch_size": "1",
+      "inference_time_mean": 4.769826574666392,
+      "inference_time_std": 0.00043743483067129813,
+      "inference_time_median": 4.7700671139991755,
+      "memory_used_mean": 36.01171875,
+      "samples": 5
+    },
+    {
+      "optimization_level": "compile_only",
+      "resolution": [
+        1280,
+        720
+      ],
+      "steps": "20",
+      "batch_size": "1",
+      "inference_time_mean": 4.689452275000197,
+      "inference_time_std": 0.006454988344048208,
+      "inference_time_median": 4.686392613000862,
+      "memory_used_mean": 35.998046875,
+      "samples": 5
+    },
+    {
+      "optimization_level": "full_optimization",
+      "resolution": [
+        512,
+        512
+      ],
+      "steps": "20",
+      "batch_size": "1",
+      "inference_time_mean": 2.7113519300000917,
+      "inference_time_std": 0.004325698413229941,
+      "inference_time_median": 2.709694428000148,
+      "memory_used_mean": 38.6328125,
+      "samples": 5
+    },
+    {
+      "optimization_level": "full_optimization",
+      "resolution": [
+        768,
+        768
+      ],
+      "steps": "20",
+      "batch_size": "1",
+      "inference_time_mean": 2.7055781706670436,
+      "inference_time_std": 0.00086972966038231,
+      "inference_time_median": 2.7057437160001427,
+      "memory_used_mean": 38.6328125,
+      "samples": 5
+    },
+    {
+      "optimization_level": "full_optimization",
+      "resolution": [
+        1024,
+        768
+      ],
+      "steps": "20",
+      "batch_size": "1",
+      "inference_time_mean": 2.469345154999852,
+      "inference_time_std": 0.11852569206388687,
+      "inference_time_median": 2.4030977909987996,
+      "memory_used_mean": 38.587890625,
+      "samples": 5
+    },
+    {
+      "optimization_level": "full_optimization",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": "10",
+      "batch_size": "1",
+      "inference_time_mean": 1.9610841200004263,
+      "inference_time_std": 0.0017485225438153707,
+      "inference_time_median": 1.9604803130005166,
+      "memory_used_mean": 38.6328125,
+      "samples": 5
+    },
+    {
+      "optimization_level": "full_optimization",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": "20",
+      "batch_size": "1",
+      "inference_time_mean": 2.743166507769274,
+      "inference_time_std": 0.07337548815261259,
+      "inference_time_median": 2.6991512140011764,
+      "memory_used_mean": 38.631510416666664,
+      "samples": 15
+    },
+    {
+      "optimization_level": "full_optimization",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": "20",
+      "batch_size": "2",
+      "inference_time_mean": 5.631869388000268,
+      "inference_time_std": 0.002395103361743429,
+      "inference_time_median": 5.632868190999943,
+      "memory_used_mean": 42.015625,
+      "samples": 5
+    },
+    {
+      "optimization_level": "full_optimization",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": "20",
+      "batch_size": "4",
+      "inference_time_mean": 11.023349550666657,
+      "inference_time_std": 0.006263991976763361,
+      "inference_time_median": 11.020530858999336,
+      "memory_used_mean": 48.58203125,
+      "samples": 5
+    },
+    {
+      "optimization_level": "full_optimization",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": "28",
+      "batch_size": "1",
+      "inference_time_mean": 2.96794184733335,
+      "inference_time_std": 0.001241091135629322,
+      "inference_time_median": 2.96758193200003,
+      "memory_used_mean": 38.6328125,
+      "samples": 5
+    },
+    {
+      "optimization_level": "full_optimization",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": "50",
+      "batch_size": "1",
+      "inference_time_mean": 3.54439922033392,
+      "inference_time_std": 0.001910714385271614,
+      "inference_time_median": 3.5452588469997863,
+      "memory_used_mean": 38.6328125,
+      "samples": 5
+    },
+    {
+      "optimization_level": "full_optimization",
+      "resolution": [
+        1280,
+        720
+      ],
+      "steps": "20",
+      "batch_size": "1",
+      "inference_time_mean": 2.6614860563331604,
+      "inference_time_std": 0.0007257707578674688,
+      "inference_time_median": 2.6617112160001852,
+      "memory_used_mean": 38.626953125,
+      "samples": 5
+    },
+    {
+      "optimization_level": "para_attn_only",
+      "resolution": [
+        512,
+        512
+      ],
+      "steps": "20",
+      "batch_size": "1",
+      "inference_time_mean": 4.067134482333131,
+      "inference_time_std": 0.002822862284508463,
+      "inference_time_median": 4.067493451000701,
+      "memory_used_mean": 36.16015625,
+      "samples": 5
+    },
+    {
+      "optimization_level": "para_attn_only",
+      "resolution": [
+        768,
+        768
+      ],
+      "steps": "20",
+      "batch_size": "1",
+      "inference_time_mean": 4.064639715666999,
+      "inference_time_std": 0.001369889302303453,
+      "inference_time_median": 4.064389570999992,
+      "memory_used_mean": 36.16015625,
+      "samples": 5
+    },
+    {
+      "optimization_level": "para_attn_only",
+      "resolution": [
+        1024,
+        768
+      ],
+      "steps": "20",
+      "batch_size": "1",
+      "inference_time_mean": 3.626563415666775,
+      "inference_time_std": 0.00024331357198687108,
+      "inference_time_median": 3.6266161690000445,
+      "memory_used_mean": 36.087890625,
+      "samples": 5
+    },
+    {
+      "optimization_level": "para_attn_only",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": "20",
+      "batch_size": "1",
+      "inference_time_mean": 4.065590936332835,
+      "inference_time_std": 0.0014272113431343409,
+      "inference_time_median": 4.066281097999308,
+      "memory_used_mean": 36.16015625,
+      "samples": 5
+    },
+    {
+      "optimization_level": "para_attn_only",
+      "resolution": [
+        1280,
+        720
+      ],
+      "steps": "20",
+      "batch_size": "1",
+      "inference_time_mean": 4.033730581000175,
+      "inference_time_std": 0.0016708665392852129,
+      "inference_time_median": 4.034459140000763,
+      "memory_used_mean": 36.146484375,
+      "samples": 5
+    },
+    {
+      "optimization_level": "qkv_fusion_only",
+      "resolution": [
+        512,
+        512
+      ],
+      "steps": "20",
+      "batch_size": "1",
+      "inference_time_mean": 7.116546915000072,
+      "inference_time_std": 0.001646590258671856,
+      "inference_time_median": 7.116240654000649,
+      "memory_used_mean": 40.14453125,
+      "samples": 5
+    },
+    {
+      "optimization_level": "qkv_fusion_only",
+      "resolution": [
+        768,
+        768
+      ],
+      "steps": "20",
+      "batch_size": "1",
+      "inference_time_mean": 7.1212700606671815,
+      "inference_time_std": 0.0011119386225140278,
+      "inference_time_median": 7.12094154999977,
+      "memory_used_mean": 40.14453125,
+      "samples": 5
+    },
+    {
+      "optimization_level": "qkv_fusion_only",
+      "resolution": [
+        1024,
+        768
+      ],
+      "steps": "20",
+      "batch_size": "1",
+      "inference_time_mean": 6.932116169333312,
+      "inference_time_std": 0.002702743012244359,
+      "inference_time_median": 6.932947022000008,
+      "memory_used_mean": 40.072265625,
+      "samples": 5
+    },
+    {
+      "optimization_level": "qkv_fusion_only",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": "20",
+      "batch_size": "1",
+      "inference_time_mean": 7.119756692666367,
+      "inference_time_std": 0.00395702508299536,
+      "inference_time_median": 7.117514743998981,
+      "memory_used_mean": 40.14453125,
+      "samples": 5
+    },
+    {
+      "optimization_level": "qkv_fusion_only",
+      "resolution": [
+        1280,
+        720
+      ],
+      "steps": "20",
+      "batch_size": "1",
+      "inference_time_mean": 7.058983669666001,
+      "inference_time_std": 0.0021907480351138135,
+      "inference_time_median": 7.0581265069995425,
+      "memory_used_mean": 40.130859375,
+      "samples": 5
+    },
+    {
+      "optimization_level": "standard_opts",
+      "resolution": [
+        512,
+        512
+      ],
+      "steps": "20",
+      "batch_size": "1",
+      "inference_time_mean": 4.703850859999875,
+      "inference_time_std": 0.001500545932506851,
+      "inference_time_median": 4.703767732000415,
+      "memory_used_mean": 38.5546875,
+      "samples": 5
+    },
+    {
+      "optimization_level": "standard_opts",
+      "resolution": [
+        768,
+        768
+      ],
+      "steps": "20",
+      "batch_size": "1",
+      "inference_time_mean": 4.713340491332929,
+      "inference_time_std": 0.0036074460072180216,
+      "inference_time_median": 4.713517852998848,
+      "memory_used_mean": 38.5546875,
+      "samples": 5
+    },
+    {
+      "optimization_level": "standard_opts",
+      "resolution": [
+        1024,
+        768
+      ],
+      "steps": "20",
+      "batch_size": "1",
+      "inference_time_mean": 4.5682988843339745,
+      "inference_time_std": 0.0003409957372986531,
+      "inference_time_median": 4.568357768999704,
+      "memory_used_mean": 38.509765625,
+      "samples": 5
+    },
+    {
+      "optimization_level": "standard_opts",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "steps": "20",
+      "batch_size": "1",
+      "inference_time_mean": 4.720191615667015,
+      "inference_time_std": 0.0035249660296408575,
+      "inference_time_median": 4.719067969001117,
+      "memory_used_mean": 38.5546875,
+      "samples": 5
+    },
+    {
+      "optimization_level": "standard_opts",
+      "resolution": [
+        1280,
+        720
+      ],
+      "steps": "20",
+      "batch_size": "1",
+      "inference_time_mean": 4.658140973999859,
+      "inference_time_std": 0.0011982200164580776,
+      "inference_time_median": 4.6581107980000525,
+      "memory_used_mean": 38.548828125,
+      "samples": 5
+    },
+    {
+      "optimization_level": "baseline",
+      "test_name": "batch_1",
+      "inference_time_mean": 7.087432014666774,
+      "inference_time_std": 0.002892408571336746,
+      "inference_time_median": 7.088073824001185,
+      "memory_used_mean": 36.16015625,
+      "samples": 5
+    },
+    {
+      "optimization_level": "baseline",
+      "test_name": "batch_2",
+      "inference_time_mean": 13.884910220000165,
+      "inference_time_std": 0.0071482949052868085,
+      "inference_time_median": 13.887508665000496,
+      "memory_used_mean": 41.755859375,
+      "samples": 5
+    },
+    {
+      "optimization_level": "baseline",
+      "test_name": "batch_4",
+      "inference_time_mean": 27.24708415100031,
+      "inference_time_std": 0.003151890133608505,
+      "inference_time_median": 27.248310495000624,
+      "memory_used_mean": 51.939453125,
+      "samples": 5
+    },
+    {
+      "optimization_level": "baseline",
+      "test_name": "resolution_1024x1024",
+      "inference_time_mean": 7.148735845666731,
+      "inference_time_std": 0.0015338711594329673,
+      "inference_time_median": 7.148995965000722,
+      "memory_used_mean": 36.16015625,
+      "samples": 5
+    },
+    {
+      "optimization_level": "baseline",
+      "test_name": "resolution_1024x768",
+      "inference_time_mean": 6.955409703999976,
+      "inference_time_std": 0.0007535846800165256,
+      "inference_time_median": 6.954983171000094,
+      "memory_used_mean": 36.087890625,
+      "samples": 5
+    },
+    {
+      "optimization_level": "baseline",
+      "test_name": "resolution_1280x720",
+      "inference_time_mean": 7.102879475000009,
+      "inference_time_std": 0.0027666804975804335,
+      "inference_time_median": 7.1025397040002645,
+      "memory_used_mean": 36.146484375,
+      "samples": 5
+    },
+    {
+      "optimization_level": "baseline",
+      "test_name": "resolution_512x512",
+      "inference_time_mean": 7.068705742333198,
+      "inference_time_std": 0.016935624023097673,
+      "inference_time_median": 7.0657352859998355,
+      "memory_used_mean": 36.16015625,
+      "samples": 5
+    },
+    {
+      "optimization_level": "baseline",
+      "test_name": "resolution_768x768",
+      "inference_time_mean": 7.142472844000015,
+      "inference_time_std": 0.009538301658567951,
+      "inference_time_median": 7.138624518000142,
+      "memory_used_mean": 36.16015625,
+      "samples": 5
+    },
+    {
+      "optimization_level": "baseline",
+      "test_name": "steps_10",
+      "inference_time_mean": 3.62846439699994,
+      "inference_time_std": 0.002634216660243082,
+      "inference_time_median": 3.628633368998635,
+      "memory_used_mean": 36.16015625,
+      "samples": 5
+    },
+    {
+      "optimization_level": "baseline",
+      "test_name": "steps_20",
+      "inference_time_mean": 7.095207627333366,
+      "inference_time_std": 0.004480627647535323,
+      "inference_time_median": 7.0936374770008115,
+      "memory_used_mean": 36.16015625,
+      "samples": 5
+    },
+    {
+      "optimization_level": "baseline",
+      "test_name": "steps_28",
+      "inference_time_mean": 9.89729679300035,
+      "inference_time_std": 0.002196683082593151,
+      "inference_time_median": 9.898143477001213,
+      "memory_used_mean": 36.16015625,
+      "samples": 5
+    },
+    {
+      "optimization_level": "baseline",
+      "test_name": "steps_50",
+      "inference_time_mean": 17.564121569333413,
+      "inference_time_std": 0.0033904582997209133,
+      "inference_time_median": 17.56305997799973,
+      "memory_used_mean": 36.16015625,
+      "samples": 5
+    },
+    {
+      "optimization_level": "channels_last_only",
+      "test_name": "resolution_1024x1024",
+      "inference_time_mean": 7.210895185999107,
+      "inference_time_std": 0.0011601198239789357,
+      "inference_time_median": 7.210706406998725,
+      "memory_used_mean": 34.896484375,
+      "samples": 5
+    },
+    {
+      "optimization_level": "channels_last_only",
+      "test_name": "resolution_1024x768",
+      "inference_time_mean": 6.996833049333873,
+      "inference_time_std": 0.003999303281603525,
+      "inference_time_median": 6.998723477001477,
+      "memory_used_mean": 34.8515625,
+      "samples": 5
+    },
+    {
+      "optimization_level": "channels_last_only",
+      "test_name": "resolution_1280x720",
+      "inference_time_mean": 7.151013982333097,
+      "inference_time_std": 0.0039324787870668775,
+      "inference_time_median": 7.152856367998538,
+      "memory_used_mean": 34.890625,
+      "samples": 5
+    },
+    {
+      "optimization_level": "channels_last_only",
+      "test_name": "resolution_512x512",
+      "inference_time_mean": 7.1911302040007286,
+      "inference_time_std": 0.0041073002785658235,
+      "inference_time_median": 7.190690876999724,
+      "memory_used_mean": 34.896484375,
+      "samples": 5
+    },
+    {
+      "optimization_level": "channels_last_only",
+      "test_name": "resolution_768x768",
+      "inference_time_mean": 7.207468557667501,
+      "inference_time_std": 0.0029187097948565675,
+      "inference_time_median": 7.208725743001196,
+      "memory_used_mean": 34.896484375,
+      "samples": 5
+    },
+    {
+      "optimization_level": "compile_only",
+      "test_name": "resolution_1024x1024",
+      "inference_time_mean": 4.769826574666392,
+      "inference_time_std": 0.00043743483067129813,
+      "inference_time_median": 4.7700671139991755,
+      "memory_used_mean": 36.01171875,
+      "samples": 5
+    },
+    {
+      "optimization_level": "compile_only",
+      "test_name": "resolution_1024x768",
+      "inference_time_mean": 4.607026125334111,
+      "inference_time_std": 0.002180723637960827,
+      "inference_time_median": 4.608015892001276,
+      "memory_used_mean": 35.935546875,
+      "samples": 5
+    },
+    {
+      "optimization_level": "compile_only",
+      "test_name": "resolution_1280x720",
+      "inference_time_mean": 4.689452275000197,
+      "inference_time_std": 0.006454988344048208,
+      "inference_time_median": 4.686392613000862,
+      "memory_used_mean": 35.998046875,
+      "samples": 5
+    },
+    {
+      "optimization_level": "compile_only",
+      "test_name": "resolution_512x512",
+      "inference_time_mean": 4.7426658196660965,
+      "inference_time_std": 0.0020082748625235365,
+      "inference_time_median": 4.743540559000394,
+      "memory_used_mean": 36.01171875,
+      "samples": 5
+    },
+    {
+      "optimization_level": "compile_only",
+      "test_name": "resolution_768x768",
+      "inference_time_mean": 4.761879347000407,
+      "inference_time_std": 0.00395829387226794,
+      "inference_time_median": 4.760518832001253,
+      "memory_used_mean": 36.01171875,
+      "samples": 5
+    },
+    {
+      "optimization_level": "full_optimization",
+      "test_name": "batch_1",
+      "inference_time_mean": 2.8514549803330738,
+      "inference_time_std": 0.00405235439528117,
+      "inference_time_median": 2.8536965809998946,
+      "memory_used_mean": 38.62890625,
+      "samples": 5
+    },
+    {
+      "optimization_level": "full_optimization",
+      "test_name": "batch_2",
+      "inference_time_mean": 5.631869388000268,
+      "inference_time_std": 0.002395103361743429,
+      "inference_time_median": 5.632868190999943,
+      "memory_used_mean": 42.015625,
+      "samples": 5
+    },
+    {
+      "optimization_level": "full_optimization",
+      "test_name": "batch_4",
+      "inference_time_mean": 11.023349550666657,
+      "inference_time_std": 0.006263991976763361,
+      "inference_time_median": 11.020530858999336,
+      "memory_used_mean": 48.58203125,
+      "samples": 5
+    },
+    {
+      "optimization_level": "full_optimization",
+      "test_name": "resolution_1024x1024",
+      "inference_time_mean": 2.699157715667146,
+      "inference_time_std": 0.0015321458466087748,
+      "inference_time_median": 2.6991512140011764,
+      "memory_used_mean": 38.6328125,
+      "samples": 5
+    },
+    {
+      "optimization_level": "full_optimization",
+      "test_name": "resolution_1024x768",
+      "inference_time_mean": 2.469345154999852,
+      "inference_time_std": 0.11852569206388687,
+      "inference_time_median": 2.4030977909987996,
+      "memory_used_mean": 38.587890625,
+      "samples": 5
+    },
+    {
+      "optimization_level": "full_optimization",
+      "test_name": "resolution_1280x720",
+      "inference_time_mean": 2.6614860563331604,
+      "inference_time_std": 0.0007257707578674688,
+      "inference_time_median": 2.6617112160001852,
+      "memory_used_mean": 38.626953125,
+      "samples": 5
+    },
+    {
+      "optimization_level": "full_optimization",
+      "test_name": "resolution_512x512",
+      "inference_time_mean": 2.7113519300000917,
+      "inference_time_std": 0.004325698413229941,
+      "inference_time_median": 2.709694428000148,
+      "memory_used_mean": 38.6328125,
+      "samples": 5
+    },
+    {
+      "optimization_level": "full_optimization",
+      "test_name": "resolution_768x768",
+      "inference_time_mean": 2.7055781706670436,
+      "inference_time_std": 0.00086972966038231,
+      "inference_time_median": 2.7057437160001427,
+      "memory_used_mean": 38.6328125,
+      "samples": 5
+    },
+    {
+      "optimization_level": "full_optimization",
+      "test_name": "steps_10",
+      "inference_time_mean": 1.9610841200004263,
+      "inference_time_std": 0.0017485225438153707,
+      "inference_time_median": 1.9604803130005166,
+      "memory_used_mean": 38.6328125,
+      "samples": 5
+    },
+    {
+      "optimization_level": "full_optimization",
+      "test_name": "steps_20",
+      "inference_time_mean": 2.6929658713337026,
+      "inference_time_std": 0.0007908013736549754,
+      "inference_time_median": 2.693243005000113,
+      "memory_used_mean": 38.6328125,
+      "samples": 5
+    },
+    {
+      "optimization_level": "full_optimization",
+      "test_name": "steps_28",
+      "inference_time_mean": 2.96794184733335,
+      "inference_time_std": 0.001241091135629322,
+      "inference_time_median": 2.96758193200003,
+      "memory_used_mean": 38.6328125,
+      "samples": 5
+    },
+    {
+      "optimization_level": "full_optimization",
+      "test_name": "steps_50",
+      "inference_time_mean": 3.54439922033392,
+      "inference_time_std": 0.001910714385271614,
+      "inference_time_median": 3.5452588469997863,
+      "memory_used_mean": 38.6328125,
+      "samples": 5
+    },
+    {
+      "optimization_level": "para_attn_only",
+      "test_name": "resolution_1024x1024",
+      "inference_time_mean": 4.065590936332835,
+      "inference_time_std": 0.0014272113431343409,
+      "inference_time_median": 4.066281097999308,
+      "memory_used_mean": 36.16015625,
+      "samples": 5
+    },
+    {
+      "optimization_level": "para_attn_only",
+      "test_name": "resolution_1024x768",
+      "inference_time_mean": 3.626563415666775,
+      "inference_time_std": 0.00024331357198687108,
+      "inference_time_median": 3.6266161690000445,
+      "memory_used_mean": 36.087890625,
+      "samples": 5
+    },
+    {
+      "optimization_level": "para_attn_only",
+      "test_name": "resolution_1280x720",
+      "inference_time_mean": 4.033730581000175,
+      "inference_time_std": 0.0016708665392852129,
+      "inference_time_median": 4.034459140000763,
+      "memory_used_mean": 36.146484375,
+      "samples": 5
+    },
+    {
+      "optimization_level": "para_attn_only",
+      "test_name": "resolution_512x512",
+      "inference_time_mean": 4.067134482333131,
+      "inference_time_std": 0.002822862284508463,
+      "inference_time_median": 4.067493451000701,
+      "memory_used_mean": 36.16015625,
+      "samples": 5
+    },
+    {
+      "optimization_level": "para_attn_only",
+      "test_name": "resolution_768x768",
+      "inference_time_mean": 4.064639715666999,
+      "inference_time_std": 0.001369889302303453,
+      "inference_time_median": 4.064389570999992,
+      "memory_used_mean": 36.16015625,
+      "samples": 5
+    },
+    {
+      "optimization_level": "qkv_fusion_only",
+      "test_name": "resolution_1024x1024",
+      "inference_time_mean": 7.119756692666367,
+      "inference_time_std": 0.00395702508299536,
+      "inference_time_median": 7.117514743998981,
+      "memory_used_mean": 40.14453125,
+      "samples": 5
+    },
+    {
+      "optimization_level": "qkv_fusion_only",
+      "test_name": "resolution_1024x768",
+      "inference_time_mean": 6.932116169333312,
+      "inference_time_std": 0.002702743012244359,
+      "inference_time_median": 6.932947022000008,
+      "memory_used_mean": 40.072265625,
+      "samples": 5
+    },
+    {
+      "optimization_level": "qkv_fusion_only",
+      "test_name": "resolution_1280x720",
+      "inference_time_mean": 7.058983669666001,
+      "inference_time_std": 0.0021907480351138135,
+      "inference_time_median": 7.0581265069995425,
+      "memory_used_mean": 40.130859375,
+      "samples": 5
+    },
+    {
+      "optimization_level": "qkv_fusion_only",
+      "test_name": "resolution_512x512",
+      "inference_time_mean": 7.116546915000072,
+      "inference_time_std": 0.001646590258671856,
+      "inference_time_median": 7.116240654000649,
+      "memory_used_mean": 40.14453125,
+      "samples": 5
+    },
+    {
+      "optimization_level": "qkv_fusion_only",
+      "test_name": "resolution_768x768",
+      "inference_time_mean": 7.1212700606671815,
+      "inference_time_std": 0.0011119386225140278,
+      "inference_time_median": 7.12094154999977,
+      "memory_used_mean": 40.14453125,
+      "samples": 5
+    },
+    {
+      "optimization_level": "standard_opts",
+      "test_name": "resolution_1024x1024",
+      "inference_time_mean": 4.720191615667015,
+      "inference_time_std": 0.0035249660296408575,
+      "inference_time_median": 4.719067969001117,
+      "memory_used_mean": 38.5546875,
+      "samples": 5
+    },
+    {
+      "optimization_level": "standard_opts",
+      "test_name": "resolution_1024x768",
+      "inference_time_mean": 4.5682988843339745,
+      "inference_time_std": 0.0003409957372986531,
+      "inference_time_median": 4.568357768999704,
+      "memory_used_mean": 38.509765625,
+      "samples": 5
+    },
+    {
+      "optimization_level": "standard_opts",
+      "test_name": "resolution_1280x720",
+      "inference_time_mean": 4.658140973999859,
+      "inference_time_std": 0.0011982200164580776,
+      "inference_time_median": 4.6581107980000525,
+      "memory_used_mean": 38.548828125,
+      "samples": 5
+    },
+    {
+      "optimization_level": "standard_opts",
+      "test_name": "resolution_512x512",
+      "inference_time_mean": 4.703850859999875,
+      "inference_time_std": 0.001500545932506851,
+      "inference_time_median": 4.703767732000415,
+      "memory_used_mean": 38.5546875,
+      "samples": 5
+    },
+    {
+      "optimization_level": "standard_opts",
+      "test_name": "resolution_768x768",
+      "inference_time_mean": 4.713340491332929,
+      "inference_time_std": 0.0036074460072180216,
+      "inference_time_median": 4.713517852998848,
+      "memory_used_mean": 38.5546875,
+      "samples": 5
+    }
+  ],
+  "test_config": {
+    "prompts": [
+      "A serene mountain landscape at sunset with vibrant colors",
+      "A futuristic cyberpunk cityscape with neon lights and flying cars",
+      "A detailed portrait of a wise elderly wizard with flowing beard",
+      "An abstract composition of geometric shapes in bold colors",
+      "A photorealistic still life of fresh fruits on a wooden table",
+      "A whimsical underwater scene with colorful coral and tropical fish",
+      "A dramatic storm over an ancient castle on a cliff",
+      "A minimalist architectural interior with natural lighting",
+      "A dense jungle with exotic plants and hidden temples",
+      "A cozy coffee shop interior with warm lighting and vintage decor"
+    ],
+    "optimization_levels": [
+      {
+        "name": "baseline",
+        "use_compile": false,
+        "use_para_attn": false,
+        "use_channels_last": false,
+        "use_qkv_fusion": false,
+        "use_mega_cache": false
+      },
+      {
+        "name": "compile_only",
+        "use_compile": true,
+        "use_para_attn": false,
+        "use_channels_last": false,
+        "use_qkv_fusion": false,
+        "use_mega_cache": false
+      },
+      {
+        "name": "para_attn_only",
+        "use_compile": false,
+        "use_para_attn": true,
+        "use_channels_last": false,
+        "use_qkv_fusion": false,
+        "use_mega_cache": false
+      },
+      {
+        "name": "channels_last_only",
+        "use_compile": false,
+        "use_para_attn": false,
+        "use_channels_last": true,
+        "use_qkv_fusion": false,
+        "use_mega_cache": false
+      },
+      {
+        "name": "qkv_fusion_only",
+        "use_compile": false,
+        "use_para_attn": false,
+        "use_channels_last": false,
+        "use_qkv_fusion": true,
+        "use_mega_cache": false
+      },
+      {
+        "name": "standard_opts",
+        "use_compile": true,
+        "use_para_attn": false,
+        "use_channels_last": true,
+        "use_qkv_fusion": true,
+        "use_mega_cache": false
+      },
+      {
+        "name": "full_optimization",
+        "use_compile": true,
+        "use_para_attn": true,
+        "use_channels_last": true,
+        "use_qkv_fusion": true,
+        "use_mega_cache": true
+      }
+    ]
+  }
+}

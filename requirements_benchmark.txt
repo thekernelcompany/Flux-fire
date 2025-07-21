@@ -1,0 +1,20 @@
+# Benchmarking suite dependencies
+# Install with: pip install -r requirements_benchmark.txt
+
+# Data analysis and visualization
+pandas>=2.0.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.18.0
+kaleido>=0.2.1  # For plotly static image export
+
+# Quality assessment
+torchmetrics>=1.2.0
+transformers>=4.30.0  # For CLIP model
+
+# GPU monitoring
+nvidia-ml-py>=12.535.133  # For pynvml GPU monitoring
+
+# Additional utilities
+tqdm>=4.65.0
+scipy>=1.10.0
