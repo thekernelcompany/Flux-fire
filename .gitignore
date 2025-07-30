@@ -65,6 +65,7 @@ htmlcov/
 docs/_build/
 *.rst~
 CLAUDE.md
+.claude
 
 # Jupyter
 .ipynb_checkpoints/
