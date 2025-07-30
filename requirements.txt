@@ -1,15 +1,30 @@
-accelerate==1.6.0
-boto3==1.37.35
+torch
+accelerate
+boto3
 git+https://github.com/huggingface/diffusers.git
-fastapi[standard]==0.115.12
-huggingface-hub[hf_transfer]==0.30.2
-numpy==2.2.4
-opencv-python-headless==4.11.0.86
-para-attn==0.3.32
-pydantic==2.11.4
-safetensors==0.5.3
-sentencepiece==0.2.0
-torch==2.7.0
-transformers==4.51.3
-uvicorn==0.34.0
-pillow>=10.0.0
+fastapi[standard]
+huggingface-hub[hf_transfer]
+numpy
+opencv-python-headless
+para-attn
+pydantic
+safetensors
+sentencepiece
+transformers
+uvicorn
+pillow
+protobuf
+# Build dependencies for flash-attention
+packaging
+ninja
+# FlashAttention 3 for Stage 2 optimization (PyPI package)
+flash-attn
+# MXFP4 quantization for Stage 3 optimization  
+#torchmx
+# Microsoft MX quantization library (alternative)
+#git+https://github.com/microsoft/microxcaling.git
+
+# H100-specific optimizations
+transformer-engine>=1.0  # NVIDIA Transformer Engine for FP8
+tensorrt>=9.0           # TensorRT for H100
+torch-tensorrt>=2.0     # PyTorch TensorRT integration
