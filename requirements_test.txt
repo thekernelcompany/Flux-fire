@@ -1,0 +1,28 @@
+# Testing dependencies
+pytest>=7.4.0
+pytest-cov>=4.1.0
+pytest-asyncio>=0.21.1
+pytest-mock>=3.11.1
+pytest-timeout>=2.1.0
+pytest-benchmark>=4.0.0
+pytest-xdist>=3.3.1  # For parallel test execution
+
+# Quality assessment dependencies
+torchmetrics>=1.0.0
+clip-interrogator>=0.6.0
+pytorch-fid>=0.3.0
+
+# Performance monitoring
+nvidia-ml-py>=12.0.0  # For GPU monitoring
+psutil>=5.9.0
+memory-profiler>=0.61.0
+
+# Mocking and fixtures
+faker>=19.0.0
+factory-boy>=3.3.0
+responses>=0.23.3  # For mocking HTTP requests
+
+# Test reporting
+pytest-html>=3.2.0
+pytest-json-report>=1.5.0
+allure-pytest>=2.13.2
